@@ -1,0 +1,15 @@
+# c_sargothan
+
+# County Title
+title = c_sargothan
+
+# Settlements
+max_settlements = 1
+
+b_sargothan = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

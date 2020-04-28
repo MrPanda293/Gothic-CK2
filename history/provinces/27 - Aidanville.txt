@@ -1,0 +1,15 @@
+# c_aidanville
+
+# County Title
+title = c_aidanville
+
+# Settlements
+max_settlements = 1
+
+b_aidanville = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

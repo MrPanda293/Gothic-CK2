@@ -1,0 +1,15 @@
+# c_orcs_town
+
+# County Title
+title = c_orcs_town
+
+# Settlements
+max_settlements = 1
+
+b_orcs_town = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

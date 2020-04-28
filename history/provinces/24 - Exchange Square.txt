@@ -1,0 +1,15 @@
+# c_exchange_square
+
+# County Title
+title = c_exchange_square
+
+# Settlements
+max_settlements = 1
+
+b_exchange_square = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

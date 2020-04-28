@@ -1,0 +1,15 @@
+# c_varrag_karhagkh
+
+# County Title
+title = c_varrag_karhagkh
+
+# Settlements
+max_settlements = 1
+
+b_varrag_karhagkh = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

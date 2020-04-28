@@ -1,0 +1,429 @@
+###### AUTO GENERATED CONTENT (c) CKTools v19 ######
+
+
+
+e_emptyland = {
+	color={ 39 216 20 }
+	color2={ 255 255 20 }
+	
+	capital = 1 # c_emptyland
+	culture = hungarian
+	
+	k_emptyland = {
+		color={ 29 226 15 }
+		color2={ 255 255 255 }
+		
+		capital = 1 # c_emptyland
+		culture = hungarian
+		
+		d_emptyland = {
+			color={ 9 246 5 }
+			color2={ 255 255 255 }
+			
+			capital = 1 # c_emptyland
+			
+			c_emptyland = { # 1
+				color={ 255 0 0 }
+				color2={ 255 255 255 }
+				
+				b_emptyland = {
+				}
+			}
+		}
+	}
+}
+e_land = {
+	color={ 166 225 149 }
+	color2={ 255 255 20 }
+	
+	capital = 3 # c_argash_karhagkh
+	culture = hungarian
+	
+	k_land = {
+		color={ 156 235 144 }
+		color2={ 255 255 255 }
+		
+		capital = 3 # c_argash_karhagkh
+		culture = hungarian
+		
+
+		d_land = {
+			color={ 136 255 134 }
+			color2={ 255 255 255 }
+			
+			capital = 3 # c_argash_karhagkh
+			
+			c_argash_karhagkh = { # 3
+				color={ 126 9 129 }
+				color2={ 255 255 255 }
+				
+				b_argash_karhagkh = {
+				}
+			}
+			c_aidanville = { # 27
+				color={ 126 84 14 }
+				color2={ 255 255 255 }
+				
+				b_aidanville = {
+				}
+			}
+			c_akilshof = { # 45
+				color={ 0 135 150 }
+				color2={ 255 255 255 }
+				
+				b_akilshof = {
+				}
+			}
+			c_avalas = { # 48
+				color={ 126 144 24 }
+				color2={ 255 255 255 }
+				
+				b_avalas = {
+				}
+			}
+			c_bandiberg = { # 50
+				color={ 0 150 25 }
+				color2={ 255 255 255 }
+				
+				b_bandiberg = {
+				}
+			}
+			c_barton = { # 34
+				color={ 168 102 17 }
+				color2={ 255 255 255 }
+				
+				b_barton = {
+				}
+			}
+			c_bengarshof = { # 51
+				color={ 42 153 153 }
+				color2={ 255 255 255 }
+				
+				b_bengarshof = {
+				}
+			}
+			c_berghana = { # 16
+				color={ 42 48 8 }
+				color2={ 255 255 255 }
+				
+				b_berghana = {
+				}
+			}
+			c_cavalara = { # 28
+				color={ 84 81 141 }
+				color2={ 255 255 255 }
+				
+				b_cavalara = {
+				}
+			}
+			c_dragonhead = { # 23
+				color={ 126 69 139 }
+				color2={ 255 255 255 }
+				
+				b_dragonhead = {
+				}
+			}
+			c_drowned_tower = { # 13
+				color={ 126 39 134 }
+				color2={ 255 255 255 }
+				
+				b_drowned_tower = {
+				}
+			}
+			c_dwachkarrgh = { # 8
+				color={ 126 24 4 }
+				color2={ 255 255 255 }
+				
+				b_dwachkarrgh = {
+				}
+			}
+			c_exchange_square = { # 24
+				color={ 168 72 12 }
+				color2={ 255 255 255 }
+				
+				b_exchange_square = {
+				}
+			}
+			c_fisherlane = { # 9
+				color={ 168 27 132 }
+				color2={ 255 255 255 }
+				
+				b_fisherlane = {
+				}
+			}
+			c_free_mine = { # 19
+				color={ 168 57 137 }
+				color2={ 255 255 255 }
+				
+				b_free_mine = {
+				}
+			}
+			c_innoskloster = { # 47
+				color={ 84 141 151 }
+				color2={ 255 255 255 }
+				
+				b_innoskloster = {
+				}
+			}
+			c_kesarday = { # 39
+				color={ 168 117 147 }
+				color2={ 255 255 255 }
+				
+				b_kesarday = {
+				}
+			}
+			c_khaz_karhagkh = { # 5
+				color={ 0 15 130 }
+				color2={ 255 255 255 }
+				
+				b_khaz_karhagkh = {
+				}
+			}
+			c_krushak_karhagkh = { # 6
+				color={ 168 45 177 }
+				color2={ 255 255 255 }
+				
+				b_krushak_karhagkh = {
+				}
+			}
+			c_lobartshof = { # 41
+				color={ 42 123 148 }
+				color2={ 255 255 255 }
+				
+				b_lobartshof = {
+				}
+			}
+			c_mafton = { # 49
+				color={ 168 147 152 }
+				color2={ 255 255 255 }
+				
+				b_mafton = {
+				}
+			}
+			c_molecave = { # 31
+				color={ 42 93 143 }
+				color2={ 255 255 255 }
+				
+				b_molecave = {
+				}
+			}
+			c_mullerbyn = { # 46
+				color={ 42 138 23 }
+				color2={ 255 255 255 }
+				
+				b_mullerbyn = {
+				}
+			}
+			c_new_camp = { # 20
+				color={ 0 60 10 }
+				color2={ 255 255 255 }
+				
+				b_new_camp = {
+				}
+			}
+			c_new_gotha = { # 37
+				color={ 84 111 146 }
+				color2={ 255 255 255 }
+				
+				b_new_gotha = {
+				}
+			}
+			c_north_khorinis = { # 44
+				color={ 168 132 22 }
+				color2={ 255 255 255 }
+				
+				b_north_khorinis = {
+				}
+			}
+			c_nyrasenia = { # 33
+				color={ 126 99 144 }
+				color2={ 255 255 255 }
+				
+				b_nyrasenia = {
+				}
+			}
+			c_old_camp = { # 32
+				color={ 84 96 16 }
+				color2={ 255 255 255 }
+				
+				b_old_camp = {
+				}
+			}
+			c_old_mine = { # 22
+				color={ 84 66 11 }
+				color2={ 255 255 255 }
+				
+				b_old_mine = {
+				}
+			}
+			c_onarshof = { # 52
+				color={ 84 156 26 }
+				color2={ 255 255 255 }
+				
+				b_onarshof = {
+				}
+			}
+			c_orakia = { # 21
+				color={ 42 63 138 }
+				color2={ 255 255 255 }
+				
+				b_orakia = {
+				}
+			}
+			c_orcs_town = { # 17
+				color={ 84 51 136 }
+				color2={ 255 255 255 }
+				
+				b_orcs_town = {
+				}
+			}
+			c_orpheus = { # 18
+				color={ 126 54 9 }
+				color2={ 255 255 255 }
+				
+				b_orpheus = {
+				}
+			}
+			c_pallisade = { # 38
+				color={ 126 114 19 }
+				color2={ 255 255 255 }
+				
+				b_pallisade = {
+				}
+			}
+			c_pockan = { # 29
+				color={ 168 87 142 }
+				color2={ 255 255 255 }
+				
+				b_pockan = {
+				}
+			}
+			c_quentina = { # 26
+				color={ 42 78 13 }
+				color2={ 255 255 255 }
+				
+				b_quentina = {
+				}
+			}
+			c_rotestavern = { # 55
+				color={ 0 165 155 }
+				color2={ 255 255 255 }
+				
+				b_rotestavern = {
+				}
+			}
+			c_rushtanagkh = { # 7
+				color={ 84 21 131 }
+				color2={ 255 255 255 }
+				
+				b_rushtanagkh = {
+				}
+			}
+			c_sargothan = { # 36
+				color={ 42 108 18 }
+				color2={ 255 255 255 }
+				
+				b_sargothan = {
+				}
+			}
+			c_sekobshof = { # 53
+				color={ 126 159 154 }
+				color2={ 255 255 255 }
+				
+				b_sekobshof = {
+				}
+			}
+			c_skeletton = { # 35
+				color={ 0 105 145 }
+				color2={ 255 255 255 }
+				
+				b_skeletton = {
+				}
+			}
+			c_sleepers_city = { # 15
+				color={ 0 45 135 }
+				color2={ 255 255 255 }
+				
+				b_sleepers_city = {
+				}
+			}
+			c_south_khorinis = { # 43
+				color={ 126 129 149 }
+				color2={ 255 255 255 }
+				
+				b_south_khorinis = {
+				}
+			}
+			c_stone_fortress = { # 11
+				color={ 42 33 133 }
+				color2={ 255 255 255 }
+				
+				b_stone_fortress = {
+				}
+			}
+			c_swamp_camp = { # 10
+				color={ 0 30 5 }
+				color2={ 255 255 255 }
+				
+				b_swamp_camp = {
+				}
+			}
+			c_the_old_citadel = { # 12
+				color={ 84 36 6 }
+				color2={ 255 255 255 }
+				
+				b_the_old_citadel = {
+				}
+			}
+			c_uderton = { # 30
+				color={ 0 90 15 }
+				color2={ 255 255 255 }
+				
+				b_uderton = {
+				}
+			}
+			c_valley_of_xarda = { # 14
+				color={ 168 42 7 }
+				color2={ 255 255 255 }
+				
+				b_valley_of_xarda = {
+				}
+			}
+			c_varrag_karhagkh = { # 4
+				color={ 168 12 2 }
+				color2={ 255 255 255 }
+				
+				b_varrag_karhagkh = {
+				}
+			}
+			c_velayar = { # 42
+				color={ 84 126 21 }
+				color2={ 255 255 255 }
+				
+				b_velayar = {
+				}
+			}
+			c_voorhan = { # 54
+				color={ 168 162 27 }
+				color2={ 255 255 255 }
+				
+				b_voorhan = {
+				}
+			}
+			c_wolfs_den = { # 25
+				color={ 0 75 140 }
+				color2={ 255 255 255 }
+				
+				b_wolfs_den = {
+				}
+			}
+			c_zardas_tower = { # 40
+				color={ 0 120 20 }
+				color2={ 255 255 255 }
+				
+				b_zardas_tower = {
+				}
+			}
+		}
+	}
+}

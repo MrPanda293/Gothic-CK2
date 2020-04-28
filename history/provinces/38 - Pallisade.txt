@@ -1,0 +1,15 @@
+# c_pallisade
+
+# County Title
+title = c_pallisade
+
+# Settlements
+max_settlements = 1
+
+b_pallisade = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

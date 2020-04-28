@@ -1,0 +1,15 @@
+# c_orakia
+
+# County Title
+title = c_orakia
+
+# Settlements
+max_settlements = 1
+
+b_orakia = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

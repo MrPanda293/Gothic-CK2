@@ -1,0 +1,15 @@
+# c_rushtanagkh
+
+# County Title
+title = c_rushtanagkh
+
+# Settlements
+max_settlements = 1
+
+b_rushtanagkh = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

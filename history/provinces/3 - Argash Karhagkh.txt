@@ -1,0 +1,15 @@
+# c_argash_karhagkh
+
+# County Title
+title = c_argash_karhagkh
+
+# Settlements
+max_settlements = 1
+
+b_argash_karhagkh = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

@@ -1,0 +1,15 @@
+# c_velayar
+
+# County Title
+title = c_velayar
+
+# Settlements
+max_settlements = 1
+
+b_velayar = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

@@ -1,0 +1,15 @@
+# c_zardas_tower
+
+# County Title
+title = c_zardas_tower
+
+# Settlements
+max_settlements = 1
+
+b_zardas_tower = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

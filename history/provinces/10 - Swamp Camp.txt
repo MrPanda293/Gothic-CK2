@@ -1,0 +1,15 @@
+# c_swamp_camp
+
+# County Title
+title = c_swamp_camp
+
+# Settlements
+max_settlements = 1
+
+b_swamp_camp = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

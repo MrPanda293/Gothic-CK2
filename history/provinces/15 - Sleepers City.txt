@@ -1,0 +1,15 @@
+# c_sleepers_city
+
+# County Title
+title = c_sleepers_city
+
+# Settlements
+max_settlements = 1
+
+b_sleepers_city = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

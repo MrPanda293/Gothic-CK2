@@ -1,0 +1,15 @@
+# c_rotestavern
+
+# County Title
+title = c_rotestavern
+
+# Settlements
+max_settlements = 1
+
+b_rotestavern = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

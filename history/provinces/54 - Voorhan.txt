@@ -1,0 +1,15 @@
+# c_voorhan
+
+# County Title
+title = c_voorhan
+
+# Settlements
+max_settlements = 1
+
+b_voorhan = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

@@ -1,0 +1,15 @@
+# c_skeletton
+
+# County Title
+title = c_skeletton
+
+# Settlements
+max_settlements = 1
+
+b_skeletton = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

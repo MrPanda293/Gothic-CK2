@@ -1,0 +1,15 @@
+# c_innoskloster
+
+# County Title
+title = c_innoskloster
+
+# Settlements
+max_settlements = 1
+
+b_innoskloster = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History

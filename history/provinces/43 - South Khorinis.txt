@@ -1,0 +1,15 @@
+# c_south_khorinis
+
+# County Title
+title = c_south_khorinis
+
+# Settlements
+max_settlements = 1
+
+b_south_khorinis = castle
+
+# Misc
+culture = hungarian
+religion = norse_pagan
+
+#History
