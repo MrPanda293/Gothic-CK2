@@ -265,6 +265,8 @@ c_gaosuntang;Gaosuntang;Gaosuntang;Gaosuntang;;Gaosuntang;;;;;;;;;x
 c_gaosuntang_adj;Gaosuntangian;;gaosuntanger;;;;;;;;;;;x
 c_genhe;Genhe;Genhe;Genhe;;Genhe;;;;;;;;;x
 c_genhe_adj;Genhean;;genher;;;;;;;;;;;x
+c_goibo;Goibo;Goibo;Goibo;;Goibo;;;;;;;;;x
+c_goibo_adj;Goibian;;goiber;;;;;;;;;;;x
 c_golog;Golog;Golog;Golog;;Golog;;;;;;;;;x
 c_golog_adj;Gologian;;gologer;;;;;;;;;;;x
 c_gongqingcheng;Gongqingcheng;Gongqingcheng;Gongqingcheng;;Gongqingcheng;;;;;;;;;x
@@ -475,6 +477,10 @@ c_jiulong;Jiulong;Jiulong;Jiulong;;Jiulong;;;;;;;;;x
 c_jiulong_adj;Jiulongian;;jiulonger;;;;;;;;;;;x
 c_jixi;Jixi;Jixi;Jixi;;Jixi;;;;;;;;;x
 c_jixi_adj;Jixian;;jixer;;;;;;;;;;;x
+c_jomda;Jomda;Jomda;Jomda;;Jomda;;;;;;;;;x
+c_jomda_adj;Jomdan;;jomder;;;;;;;;;;;x
+c_juemaxiang;Juemaxiang;Juemaxiang;Juemaxiang;;Juemaxiang;;;;;;;;;x
+c_juemaxiang_adj;Juemaxiangian;;juemaxianger;;;;;;;;;;;x
 c_julu;Julu;Julu;Julu;;Julu;;;;;;;;;x
 c_julu_adj;Julian;;juler;;;;;;;;;;;x
 c_jumeizhen;Jumeizhen;Jumeizhen;Jumeizhen;;Jumeizhen;;;;;;;;;x
@@ -1183,6 +1189,8 @@ c_zhaotong;Zhaotong;Zhaotong;Zhaotong;;Zhaotong;;;;;;;;;x
 c_zhaotong_adj;Zhaotongian;;zhaotonger;;;;;;;;;;;x
 c_zhashui;Zhashui;Zhashui;Zhashui;;Zhashui;;;;;;;;;x
 c_zhashui_adj;Zhashian;;zhasher;;;;;;;;;;;x
+c_zhayuzhen;Zhayuzhen;Zhayuzhen;Zhayuzhen;;Zhayuzhen;;;;;;;;;x
+c_zhayuzhen_adj;Zhayuzhenian;;zhayuzhener;;;;;;;;;;;x
 c_zhenghe;Zhenghe;Zhenghe;Zhenghe;;Zhenghe;;;;;;;;;x
 c_zhenghe_adj;Zhenghean;;zhengher;;;;;;;;;;;x
 c_zhengzhou;Zhengzhou;Zhengzhou;Zhengzhou;;Zhengzhou;;;;;;;;;x

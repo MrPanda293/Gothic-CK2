@@ -541,25 +541,6 @@ e_han = {
 		capital = 3570 # c_nangong
 		culture = han
 		
-		c_linfen = { # 3597
-			color={ 115 154 162 }
-			color2={ 255 255 255 }
-			
-			b_linfen = {
-			}
-			b_yaodu = {
-			}
-			b_tumenzhen = {
-			}
-			b_sangping = {
-			}
-			b_xindiancun = {
-			}
-			b_baigeta = {
-			}
-			b_gaonian_2 = {
-			}
-		}
 		d_wei = {
 			color={ 134 94 105 }
 			color2={ 255 255 255 }
@@ -8532,6 +8513,181 @@ e_qin = {
 		}
 	}
 }
+e_tibet = {
+	color={ 252 12 62 }
+	color2={ 255 255 20 }
+	
+	capital = 3673 # c_jomda
+	culture = han
+	
+	k_kham = {
+		color={ 242 22 57 }
+		color2={ 255 255 255 }
+		
+		capital = 3673 # c_jomda
+		culture = han
+		
+		c_jomda = { # 3673
+			color={ 212 52 42 }
+			color2={ 255 255 255 }
+			
+			b_jomda = {
+			}
+			b_sumu = {
+			}
+			b_sumu_2 = {
+			}
+			b_xiarongcun = {
+			}
+			b_xiawo = {
+			}
+			b_xuetong = {
+			}
+			b_jiangbacun = {
+			}
+		}
+		c_goibo = { # 3674
+			color={ 50 142 8 }
+			color2={ 255 255 255 }
+			
+			b_goibo = {
+			}
+			b_gebocun = {
+			}
+			b_angduoxiang = {
+			}
+			b_jicuocun = {
+			}
+			b_qutacun = {
+			}
+			b_luonixiang = {
+			}
+			b_youboren = {
+			}
+		}
+		c_juemaxiang = { # 3676
+			color={ 230 97 221 }
+			color2={ 255 255 255 }
+			
+			b_juemaxiang = {
+			}
+			b_bixicun = {
+			}
+			b_bieri = {
+			}
+			b_kangshacun = {
+			}
+			b_jiawa = {
+			}
+			b_sepucun = {
+			}
+			b_bibacun = {
+			}
+		}
+		c_zhayuzhen = { # 3675
+			color={ 243 216 233 }
+			color2={ 255 255 255 }
+			
+			b_zhayuzhen = {
+			}
+			b_wushacun = {
+			}
+			b_wutongcun = {
+			}
+			b_wutongxiang = {
+			}
+			b_palong = {
+			}
+			b_dabacun = {
+			}
+			b_balong = {
+			}
+		}
+		d_goibo = {
+			color={ 222 42 47 }
+			color2={ 255 255 255 }
+			
+			capital = 3673 # c_jomda
+			
+			c_jomda = { # 3673
+				color={ 212 52 42 }
+				color2={ 255 255 255 }
+				
+				b_jomda = {
+				}
+				b_sumu = {
+				}
+				b_sumu_2 = {
+				}
+				b_xiarongcun = {
+				}
+				b_xiawo = {
+				}
+				b_xuetong = {
+				}
+				b_jiangbacun = {
+				}
+			}
+			c_goibo = { # 3674
+				color={ 50 142 8 }
+				color2={ 255 255 255 }
+				
+				b_goibo = {
+				}
+				b_gebocun = {
+				}
+				b_angduoxiang = {
+				}
+				b_jicuocun = {
+				}
+				b_qutacun = {
+				}
+				b_luonixiang = {
+				}
+				b_youboren = {
+				}
+			}
+			c_juemaxiang = { # 3676
+				color={ 230 97 221 }
+				color2={ 255 255 255 }
+				
+				b_juemaxiang = {
+				}
+				b_bixicun = {
+				}
+				b_bieri = {
+				}
+				b_kangshacun = {
+				}
+				b_jiawa = {
+				}
+				b_sepucun = {
+				}
+				b_bibacun = {
+				}
+			}
+			c_zhayuzhen = { # 3675
+				color={ 243 216 233 }
+				color2={ 255 255 255 }
+				
+				b_zhayuzhen = {
+				}
+				b_wushacun = {
+				}
+				b_wutongcun = {
+				}
+				b_wutongxiang = {
+				}
+				b_palong = {
+				}
+				b_dabacun = {
+				}
+				b_balong = {
+				}
+			}
+		}
+	}
+}
 e_yangtze = {
 	color={ 30 218 219 }
 	color2={ 255 255 20 }
@@ -8546,25 +8702,6 @@ e_yangtze = {
 		capital = 3401 # c_derongmaxiang
 		culture = han
 		
-		c_ngawa = { # 3404
-			color={ 58 244 156 }
-			color2={ 255 255 255 }
-			
-			b_ngawa  = {
-			}
-			b_zhuokejizhen = {
-			}
-			b_xinyue = {
-			}
-			b_jiaomuzuxiang = {
-			}
-			b_shaerzongxiang = {
-			}
-			b_washeng = {
-			}
-			b_dongpo = {
-			}
-		}
 		d_serxu = {
 			color={ 60 188 234 }
 			color2={ 255 255 255 }
@@ -9679,25 +9816,6 @@ e_yangtze = {
 		capital = 3454 # c_lichuan
 		culture = han
 		
-		c_dawu_2 = { # 3480
-			color={ 150 59 159 }
-			color2={ 255 255 255 }
-			
-			b_dawu_2 = {
-			}
-			b_fengdianzhen = {
-			}
-			b_wangdiancun = {
-			}
-			b_laowuwan = {
-			}
-			b_guojiagou = {
-			}
-			b_yaodiancun = {
-			}
-			b_wujiawan = {
-			}
-		}
 		d_xianfeng = {
 			color={ 28 213 151 }
 			color2={ 255 255 255 }
@@ -12164,12 +12282,69 @@ e_zhujiang = {
 				}
 			}
 		}
-		d_zhenyuan_2 = {
+		d_zhenyuan = {
 			color={ 177 84 230 }
 			color2={ 255 255 255 }
 			
 			capital = 3282 # c_fenggang
 			
+			c_fenggang = { # 3282
+				color={ 187 74 235 }
+				color2={ 255 255 255 }
+				
+				b_fenggang = {
+				}
+				b_hebazhen = {
+				}
+				b_xima = {
+				}
+				b_hujiacao = {
+				}
+				b_tunshuidong = {
+				}
+				b_luoxiawo = {
+				}
+				b_luziwan = {
+				}
+			}
+			c_cengong = { # 3284
+				color={ 32 181 75 }
+				color2={ 255 255 255 }
+				
+				b_cengong = {
+				}
+				b_jinzhugou = {
+				}
+				b_caijiaba = {
+				}
+				b_miaolong = {
+				}
+				b_jinjiapo = {
+				}
+				b_yanzichong = {
+				}
+				b_laoyingzhai = {
+				}
+			}
+			c_dejiang = { # 3286
+				color={ 205 188 194 }
+				color2={ 255 255 255 }
+				
+				b_dejiang = {
+				}
+				b_luoboxi = {
+				}
+				b_tuanjiecun = {
+				}
+				b_shuichebacun = {
+				}
+				b_chenjiapo = {
+				}
+				b_yantangxiang = {
+				}
+				b_wanlishan = {
+				}
+			}
 			c_guyuan = { # 3622
 				color={ 30 95 69 }
 				color2={ 255 255 255 }

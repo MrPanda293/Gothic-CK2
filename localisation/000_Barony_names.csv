@@ -31,6 +31,8 @@ b_alxa_youqi;Alxa Youqi;Alxa Youqi;Alxa Youqi;;Alxa Youqi;;;;;;;;;x
 b_alxa_youqi_adj;Alxa Youqian;;Alxa Youqer;;;;;;;;;;;x
 b_anfuzhuang;Anfuzhuang;Anfuzhuang;Anfuzhuang;;Anfuzhuang;;;;;;;;;x
 b_anfuzhuang_adj;Anfuzhuangian;;anfuzhuanger;;;;;;;;;;;x
+b_angduoxiang;Angduoxiang;Angduoxiang;Angduoxiang;;Angduoxiang;;;;;;;;;x
+b_angduoxiang_adj;Angduoxiangian;;angduoxianger;;;;;;;;;;;x
 b_anguoxiang;Anguoxiang;Anguoxiang;Anguoxiang;;Anguoxiang;;;;;;;;;x
 b_anguoxiang_adj;Anguoxiangian;;anguoxianger;;;;;;;;;;;x
 b_anhua;Anhua;Anhua;Anhua;;Anhua;;;;;;;;;x
@@ -223,6 +225,8 @@ b_baliang;Baliang;Baliang;Baliang;;Baliang;;;;;;;;;x
 b_baliang_adj;Baliangian;;balianger;;;;;;;;;;;x
 b_balizhuangcun;Balizhuangcun;Balizhuangcun;Balizhuangcun;;Balizhuangcun;;;;;;;;;x
 b_balizhuangcun_adj;Balizhuangcunian;;balizhuangcuner;;;;;;;;;;;x
+b_balong;Balong;Balong;Balong;;Balong;;;;;;;;;x
+b_balong_adj;Balongian;;balonger;;;;;;;;;;;x
 b_bamang_houwan;Bamang Houwan;Bamang Houwan;Bamang Houwan;;Bamang Houwan;;;;;;;;;x
 b_bamang_houwan_adj;Bamang Houwanian;;Bamang Houwaner;;;;;;;;;;;x
 b_banan;Banan;Banan;Banan;;Banan;;;;;;;;;x
@@ -439,10 +443,14 @@ b_bian_wanzhuang;Bian Wanzhuang;Bian Wanzhuang;Bian Wanzhuang;;Bian Wanzhuang;;;
 b_bian_wanzhuang_adj;Bian Wanzhuangian;;Bian Wanzhuanger;;;;;;;;;;;x
 b_biaocaogou;Biaocaogou;Biaocaogou;Biaocaogou;;Biaocaogou;;;;;;;;;x
 b_biaocaogou_adj;Biaocaogian;;biaocaoger;;;;;;;;;;;x
+b_bibacun;Bibacun;Bibacun;Bibacun;;Bibacun;;;;;;;;;x
+b_bibacun_adj;Bibacunian;;bibacuner;;;;;;;;;;;x
 b_bielayincun;Bielayincun;Bielayincun;Bielayincun;;Bielayincun;;;;;;;;;x
 b_bielayincun_adj;Bielayincunian;;bielayincuner;;;;;;;;;;;x
 b_bieligutaizhen;Bieligutaizhen;Bieligutaizhen;Bieligutaizhen;;Bieligutaizhen;;;;;;;;;x
 b_bieligutaizhen_adj;Bieligutaizhenian;;bieligutaizhener;;;;;;;;;;;x
+b_bieri;Bieri;Bieri;Bieri;;Bieri;;;;;;;;;x
+b_bieri_adj;Bierian;;bierer;;;;;;;;;;;x
 b_bifeng;Bifeng;Bifeng;Bifeng;;Bifeng;;;;;;;;;x
 b_bifeng_adj;Bifengian;;bifenger;;;;;;;;;;;x
 b_bijiaguanzhuangcun;Bijiaguanzhuangcun;Bijiaguanzhuangcun;Bijiaguanzhuangcun;;Bijiaguanzhuangcun;;;;;;;;;x
@@ -461,6 +469,8 @@ b_binxingguan;Binxingguan;Binxingguan;Binxingguan;;Binxingguan;;;;;;;;;x
 b_binxingguan_adj;Binxingguanian;;binxingguaner;;;;;;;;;;;x
 b_biruta;Biruta;Biruta;Biruta;;Biruta;;;;;;;;;x
 b_biruta_adj;Birutan;;biruter;;;;;;;;;;;x
+b_bixicun;Bixicun;Bixicun;Bixicun;;Bixicun;;;;;;;;;x
+b_bixicun_adj;Bixicunian;;bixicuner;;;;;;;;;;;x
 b_biyang;Biyang;Biyang;Biyang;;Biyang;;;;;;;;;x
 b_biyang_adj;Biyangian;;biyanger;;;;;;;;;;;x
 b_bizhuangcun;Bizhuangcun;Bizhuangcun;Bizhuangcun;;Bizhuangcun;;;;;;;;;x
@@ -891,6 +901,8 @@ b_da_mangdangba;Da Mangdangba;Da Mangdangba;Da Mangdangba;;Da Mangdangba;;;;;;;;
 b_da_mangdangba_adj;Da Mangdangban;;Da Mangdangber;;;;;;;;;;;x
 b_da_zhenbian;Da Zhenbian;Da Zhenbian;Da Zhenbian;;Da Zhenbian;;;;;;;;;x
 b_da_zhenbian_adj;Da Zhenbianian;;Da Zhenbianer;;;;;;;;;;;x
+b_dabacun;Dabacun;Dabacun;Dabacun;;Dabacun;;;;;;;;;x
+b_dabacun_adj;Dabacunian;;dabacuner;;;;;;;;;;;x
 b_dabaishi;Dabaishi;Dabaishi;Dabaishi;;Dabaishi;;;;;;;;;x
 b_dabaishi_adj;Dabaishian;;dabaisher;;;;;;;;;;;x
 b_dabao;Dabao;Dabao;Dabao;;Dabao;;;;;;;;;x
@@ -1907,6 +1919,8 @@ b_gayixiang;Gayixiang;Gayixiang;Gayixiang;;Gayixiang;;;;;;;;;x
 b_gayixiang_adj;Gayixiangian;;gayixianger;;;;;;;;;;;x
 b_geben;Geben;Geben;Geben;;Geben;;;;;;;;;x
 b_geben_adj;Gebenian;;gebener;;;;;;;;;;;x
+b_gebocun;Gebocun;Gebocun;Gebocun;;Gebocun;;;;;;;;;x
+b_gebocun_adj;Gebocunian;;gebocuner;;;;;;;;;;;x
 b_geduocun;Geduocun;Geduocun;Geduocun;;Geduocun;;;;;;;;;x
 b_geduocun_adj;Geduocunian;;geduocuner;;;;;;;;;;;x
 b_gehecun;Gehecun;Gehecun;Gehecun;;Gehecun;;;;;;;;;x
@@ -1945,6 +1959,8 @@ b_gezhacun;Gezhacun;Gezhacun;Gezhacun;;Gezhacun;;;;;;;;;x
 b_gezhacun_adj;Gezhacunian;;gezhacuner;;;;;;;;;;;x
 b_gezidong;Gezidong;Gezidong;Gezidong;;Gezidong;;;;;;;;;x
 b_gezidong_adj;Gezidongian;;gezidonger;;;;;;;;;;;x
+b_goibo;Goibo;Goibo;Goibo;;Goibo;;;;;;;;;x
+b_goibo_adj;Goibian;;goiber;;;;;;;;;;;x
 b_gol;Gol;Gol;Gol;;Gol;;;;;;;;;x
 b_gol_adj;Golian;;goler;;;;;;;;;;;x
 b_goliyn;Goliyn;Goliyn;Goliyn;;Goliyn;;;;;;;;;x
@@ -2881,6 +2897,8 @@ b_jiande;Jiande;Jiande;Jiande;;Jiande;;;;;;;;;x
 b_jiande_adj;Jiandean;;jiander;;;;;;;;;;;x
 b_jianfengcun;Jianfengcun;Jianfengcun;Jianfengcun;;Jianfengcun;;;;;;;;;x
 b_jianfengcun_adj;Jianfengcunian;;jianfengcuner;;;;;;;;;;;x
+b_jiangbacun;Jiangbacun;Jiangbacun;Jiangbacun;;Jiangbacun;;;;;;;;;x
+b_jiangbacun_adj;Jiangbacunian;;jiangbacuner;;;;;;;;;;;x
 b_jiangbiancun;Jiangbiancun;Jiangbiancun;Jiangbiancun;;Jiangbiancun;;;;;;;;;x
 b_jiangbiancun_adj;Jiangbiancunian;;jiangbiancuner;;;;;;;;;;;x
 b_jiangbin;Jiangbin;Jiangbin;Jiangbin;;Jiangbin;;;;;;;;;x
@@ -3003,6 +3021,8 @@ b_jiashan;Jiashan;Jiashan;Jiashan;;Jiashan;;;;;;;;;x
 b_jiashan_adj;Jiashanian;;jiashaner;;;;;;;;;;;x
 b_jiasikongxiang;Jiasikongxiang;Jiasikongxiang;Jiasikongxiang;;Jiasikongxiang;;;;;;;;;x
 b_jiasikongxiang_adj;Jiasikongxiangian;;jiasikongxianger;;;;;;;;;;;x
+b_jiawa;Jiawa;Jiawa;Jiawa;;Jiawa;;;;;;;;;x
+b_jiawa_adj;Jiawan;;jiawer;;;;;;;;;;;x
 b_jiaxing;Jiaxing;Jiaxing;Jiaxing;;Jiaxing;;;;;;;;;x
 b_jiaxing_adj;Jiaxingian;;jiaxinger;;;;;;;;;;;x
 b_jiaxuanxiang;Jiaxuanxiang;Jiaxuanxiang;Jiaxuanxiang;;Jiaxuanxiang;;;;;;;;;x
@@ -3013,6 +3033,8 @@ b_jiazhuangcun;Jiazhuangcun;Jiazhuangcun;Jiazhuangcun;;Jiazhuangcun;;;;;;;;;x
 b_jiazhuangcun_adj;Jiazhuangcunian;;jiazhuangcuner;;;;;;;;;;;x
 b_jiazhuangcun_2;Jiazhuangcun;Jiazhuangcun;Jiazhuangcun;;Jiazhuangcun;;;;;;;;;x
 b_jiazhuangcun_2_adj;Jiazhuangcunian;;jiazhuangcuner;;;;;;;;;;;x
+b_jicuocun;Jicuocun;Jicuocun;Jicuocun;;Jicuocun;;;;;;;;;x
+b_jicuocun_adj;Jicuocunian;;jicuocuner;;;;;;;;;;;x
 b_jidong;Jidong;Jidong;Jidong;;Jidong;;;;;;;;;x
 b_jidong_adj;Jidongian;;jidonger;;;;;;;;;;;x
 b_jiefangxincun;Jiefangxincun;Jiefangxincun;Jiefangxincun;;Jiefangxincun;;;;;;;;;x
@@ -3185,8 +3207,12 @@ b_jiuzhai;Jiuzhai;Jiuzhai;Jiuzhai;;Jiuzhai;;;;;;;;;x
 b_jiuzhai_adj;Jiuzhian;;jiuzher;;;;;;;;;;;x
 b_jixi;Jixi;Jixi;Jixi;;Jixi;;;;;;;;;x
 b_jixi_adj;Jixian;;jixer;;;;;;;;;;;x
+b_jomda;Jomda;Jomda;Jomda;;Jomda;;;;;;;;;x
+b_jomda_adj;Jomdan;;jomder;;;;;;;;;;;x
 b_jueluoxiang;Jueluoxiang;Jueluoxiang;Jueluoxiang;;Jueluoxiang;;;;;;;;;x
 b_jueluoxiang_adj;Jueluoxiangian;;jueluoxianger;;;;;;;;;;;x
+b_juemaxiang;Juemaxiang;Juemaxiang;Juemaxiang;;Juemaxiang;;;;;;;;;x
+b_juemaxiang_adj;Juemaxiangian;;juemaxianger;;;;;;;;;;;x
 b_julu;Julu;Julu;Julu;;Julu;;;;;;;;;x
 b_julu_adj;Julian;;juler;;;;;;;;;;;x
 b_julucun;Julucun;Julucun;Julucun;;Julucun;;;;;;;;;x
@@ -3239,6 +3265,8 @@ b_kanglexiang;Kanglexiang;Kanglexiang;Kanglexiang;;Kanglexiang;;;;;;;;;x
 b_kanglexiang_adj;Kanglexiangian;;kanglexianger;;;;;;;;;;;x
 b_kangqiaozhen;Kangqiaozhen;Kangqiaozhen;Kangqiaozhen;;Kangqiaozhen;;;;;;;;;x
 b_kangqiaozhen_adj;Kangqiaozhenian;;kangqiaozhener;;;;;;;;;;;x
+b_kangshacun;Kangshacun;Kangshacun;Kangshacun;;Kangshacun;;;;;;;;;x
+b_kangshacun_adj;Kangshacunian;;kangshacuner;;;;;;;;;;;x
 b_kangwangxiang;Kangwangxiang;Kangwangxiang;Kangwangxiang;;Kangwangxiang;;;;;;;;;x
 b_kangwangxiang_adj;Kangwangxiangian;;kangwangxianger;;;;;;;;;;;x
 b_kangzhuangzicun;Kangzhuangzicun;Kangzhuangzicun;Kangzhuangzicun;;Kangzhuangzicun;;;;;;;;;x
@@ -3989,6 +4017,8 @@ b_luolianxiang;Luolianxiang;Luolianxiang;Luolianxiang;;Luolianxiang;;;;;;;;;x
 b_luolianxiang_adj;Luolianxiangian;;luolianxianger;;;;;;;;;;;x
 b_luomen;Luomen;Luomen;Luomen;;Luomen;;;;;;;;;x
 b_luomen_adj;Luomenian;;luomener;;;;;;;;;;;x
+b_luonixiang;Luonixiang;Luonixiang;Luonixiang;;Luonixiang;;;;;;;;;x
+b_luonixiang_adj;Luonixiangian;;luonixianger;;;;;;;;;;;x
 b_luowo;Luowo;Luowo;Luowo;;Luowo;;;;;;;;;x
 b_luowo_adj;Luowian;;luower;;;;;;;;;;;x
 b_luowu;Luowu;Luowu;Luowu;;Luowu;;;;;;;;;x
@@ -4641,6 +4671,8 @@ b_paifangshan;Paifangshan;Paifangshan;Paifangshan;;Paifangshan;;;;;;;;;x
 b_paifangshan_adj;Paifangshanian;;paifangshaner;;;;;;;;;;;x
 b_paifeng;Paifeng;Paifeng;Paifeng;;Paifeng;;;;;;;;;x
 b_paifeng_adj;Paifengian;;paifenger;;;;;;;;;;;x
+b_palong;Palong;Palong;Palong;;Palong;;;;;;;;;x
+b_palong_adj;Palongian;;palonger;;;;;;;;;;;x
 b_panbucun;Panbucun;Panbucun;Panbucun;;Panbucun;;;;;;;;;x
 b_panbucun_adj;Panbucunian;;panbucuner;;;;;;;;;;;x
 b_pandaocun;Pandaocun;Pandaocun;Pandaocun;;Pandaocun;;;;;;;;;x
@@ -5037,6 +5069,8 @@ b_qunlicun;Qunlicun;Qunlicun;Qunlicun;;Qunlicun;;;;;;;;;x
 b_qunlicun_adj;Qunlicunian;;qunlicuner;;;;;;;;;;;x
 b_qunwucun;Qunwucun;Qunwucun;Qunwucun;;Qunwucun;;;;;;;;;x
 b_qunwucun_adj;Qunwucunian;;qunwucuner;;;;;;;;;;;x
+b_qutacun;Qutacun;Qutacun;Qutacun;;Qutacun;;;;;;;;;x
+b_qutacun_adj;Qutacunian;;qutacuner;;;;;;;;;;;x
 b_quxicun;Quxicun;Quxicun;Quxicun;;Quxicun;;;;;;;;;x
 b_quxicun_adj;Quxicunian;;quxicuner;;;;;;;;;;;x
 b_quzhou;Quzhou;Quzhou;Quzhou;;Quzhou;;;;;;;;;x
@@ -5209,6 +5243,8 @@ b_sanzaocun;Sanzaocun;Sanzaocun;Sanzaocun;;Sanzaocun;;;;;;;;;x
 b_sanzaocun_adj;Sanzaocunian;;sanzaocuner;;;;;;;;;;;x
 b_sanzhuangxiang;Sanzhuangxiang;Sanzhuangxiang;Sanzhuangxiang;;Sanzhuangxiang;;;;;;;;;x
 b_sanzhuangxiang_adj;Sanzhuangxiangian;;sanzhuangxianger;;;;;;;;;;;x
+b_sepucun;Sepucun;Sepucun;Sepucun;;Sepucun;;;;;;;;;x
+b_sepucun_adj;Sepucunian;;sepucuner;;;;;;;;;;;x
 b_sergelen;Sergelen;Sergelen;Sergelen;;Sergelen;;;;;;;;;x
 b_sergelen_adj;Sergelenian;;sergelener;;;;;;;;;;;x
 b_sertar;Sertar;Sertar;Sertar;;Sertar;;;;;;;;;x
@@ -5767,6 +5803,10 @@ b_sujia_2;Sujia;Sujia;Sujia;;Sujia;;;;;;;;;x
 b_sujia_2_adj;Sujian;;sujer;;;;;;;;;;;x
 b_sule_oboo;Sule Oboo;Sule Oboo;Sule Oboo;;Sule Oboo;;;;;;;;;x
 b_sule_oboo_adj;Sule Obian;;Sule Ober;;;;;;;;;;;x
+b_sumu;Sumu;Sumu;Sumu;;Sumu;;;;;;;;;x
+b_sumu_adj;Sumian;;sumer;;;;;;;;;;;x
+b_sumu_2;Sumu;Sumu;Sumu;;Sumu;;;;;;;;;x
+b_sumu_2_adj;Sumian;;sumer;;;;;;;;;;;x
 b_sundoumen;Sundoumen;Sundoumen;Sundoumen;;Sundoumen;;;;;;;;;x
 b_sundoumen_adj;Sundoumenian;;sundoumener;;;;;;;;;;;x
 b_sunjiachang;Sunjiachang;Sunjiachang;Sunjiachang;;Sunjiachang;;;;;;;;;x
@@ -6533,6 +6573,8 @@ b_wupingluo;Wupingluo;Wupingluo;Wupingluo;;Wupingluo;;;;;;;;;x
 b_wupingluo_adj;Wupinglian;;wupingler;;;;;;;;;;;x
 b_wuqi;Wuqi;Wuqi;Wuqi;;Wuqi;;;;;;;;;x
 b_wuqi_adj;Wuqian;;wuqer;;;;;;;;;;;x
+b_wushacun;Wushacun;Wushacun;Wushacun;;Wushacun;;;;;;;;;x
+b_wushacun_adj;Wushacunian;;wushacuner;;;;;;;;;;;x
 b_wushan;Wushan;Wushan;Wushan;;Wushan;;;;;;;;;x
 b_wushan_adj;Wushanian;;wushaner;;;;;;;;;;;x
 b_wushan_2;Wushan;Wushan;Wushan;;Wushan;;;;;;;;;x
@@ -6547,8 +6589,12 @@ b_wushizhen;Wushizhen;Wushizhen;Wushizhen;;Wushizhen;;;;;;;;;x
 b_wushizhen_adj;Wushizhenian;;wushizhener;;;;;;;;;;;x
 b_wusicun;Wusicun;Wusicun;Wusicun;;Wusicun;;;;;;;;;x
 b_wusicun_adj;Wusicunian;;wusicuner;;;;;;;;;;;x
+b_wutongcun;Wutongcun;Wutongcun;Wutongcun;;Wutongcun;;;;;;;;;x
+b_wutongcun_adj;Wutongcunian;;wutongcuner;;;;;;;;;;;x
 b_wutonghuazhen;Wutonghuazhen;Wutonghuazhen;Wutonghuazhen;;Wutonghuazhen;;;;;;;;;x
 b_wutonghuazhen_adj;Wutonghuazhenian;;wutonghuazhener;;;;;;;;;;;x
+b_wutongxiang;Wutongxiang;Wutongxiang;Wutongxiang;;Wutongxiang;;;;;;;;;x
+b_wutongxiang_adj;Wutongxiangian;;wutongxianger;;;;;;;;;;;x
 b_wutongzhongcun;Wutongzhongcun;Wutongzhongcun;Wutongzhongcun;;Wutongzhongcun;;;;;;;;;x
 b_wutongzhongcun_adj;Wutongzhongcunian;;wutongzhongcuner;;;;;;;;;;;x
 b_wutucun;Wutucun;Wutucun;Wutucun;;Wutucun;;;;;;;;;x
@@ -6911,6 +6957,8 @@ b_xiaqincun;Xiaqincun;Xiaqincun;Xiaqincun;;Xiaqincun;;;;;;;;;x
 b_xiaqincun_adj;Xiaqincunian;;xiaqincuner;;;;;;;;;;;x
 b_xiaquxiang;Xiaquxiang;Xiaquxiang;Xiaquxiang;;Xiaquxiang;;;;;;;;;x
 b_xiaquxiang_adj;Xiaquxiangian;;xiaquxianger;;;;;;;;;;;x
+b_xiarongcun;Xiarongcun;Xiarongcun;Xiarongcun;;Xiarongcun;;;;;;;;;x
+b_xiarongcun_adj;Xiarongcunian;;xiarongcuner;;;;;;;;;;;x
 b_xiashan;Xiashan;Xiashan;Xiashan;;Xiashan;;;;;;;;;x
 b_xiashan_adj;Xiashanian;;xiashaner;;;;;;;;;;;x
 b_xiashi;Xiashi;Xiashi;Xiashi;;Xiashi;;;;;;;;;x
@@ -6941,6 +6989,8 @@ b_xiaweiqi;Xiaweiqi;Xiaweiqi;Xiaweiqi;;Xiaweiqi;;;;;;;;;x
 b_xiaweiqi_adj;Xiaweiqian;;xiaweiqer;;;;;;;;;;;x
 b_xiawengsan;Xiawengsan;Xiawengsan;Xiawengsan;;Xiawengsan;;;;;;;;;x
 b_xiawengsan_adj;Xiawengsanian;;xiawengsaner;;;;;;;;;;;x
+b_xiawo;Xiawo;Xiawo;Xiawo;;Xiawo;;;;;;;;;x
+b_xiawo_adj;Xiawian;;xiawer;;;;;;;;;;;x
 b_xiaxizhen;Xiaxizhen;Xiaxizhen;Xiaxizhen;;Xiaxizhen;;;;;;;;;x
 b_xiaxizhen_adj;Xiaxizhenian;;xiaxizhener;;;;;;;;;;;x
 b_xiaxizhen_2;Xiaxizhen;Xiaxizhen;Xiaxizhen;;Xiaxizhen;;;;;;;;;x
@@ -7459,6 +7509,8 @@ b_xuetang;Xuetang;Xuetang;Xuetang;;Xuetang;;;;;;;;;x
 b_xuetang_adj;Xuetangian;;xuetanger;;;;;;;;;;;x
 b_xuetian;Xuetian;Xuetian;Xuetian;;Xuetian;;;;;;;;;x
 b_xuetian_adj;Xuetianian;;xuetianer;;;;;;;;;;;x
+b_xuetong;Xuetong;Xuetong;Xuetong;;Xuetong;;;;;;;;;x
+b_xuetong_adj;Xuetongian;;xuetonger;;;;;;;;;;;x
 b_xuezhuang;Xuezhuang;Xuezhuang;Xuezhuang;;Xuezhuang;;;;;;;;;x
 b_xuezhuang_adj;Xuezhuangian;;xuezhuanger;;;;;;;;;;;x
 b_xufuzhen;Xufuzhen;Xufuzhen;Xufuzhen;;Xufuzhen;;;;;;;;;x
@@ -7961,6 +8013,8 @@ b_yongzhou;Yongzhou;Yongzhou;Yongzhou;;Yongzhou;;;;;;;;;x
 b_yongzhou_adj;Yongzhian;;yongzher;;;;;;;;;;;x
 b_you;You;You;You;;You;;;;;;;;;x
 b_you_adj;Yian;;er;;;;;;;;;;;x
+b_youboren;Youboren;Youboren;Youboren;;Youboren;;;;;;;;;x
+b_youboren_adj;Youborenian;;youborener;;;;;;;;;;;x
 b_youfang;Youfang;Youfang;Youfang;;Youfang;;;;;;;;;x
 b_youfang_adj;Youfangian;;youfanger;;;;;;;;;;;x
 b_youfang_2;Youfang;Youfang;Youfang;;Youfang;;;;;;;;;x
@@ -8311,6 +8365,8 @@ b_zhaxitangcun;Zhaxitangcun;Zhaxitangcun;Zhaxitangcun;;Zhaxitangcun;;;;;;;;;x
 b_zhaxitangcun_adj;Zhaxitangcunian;;zhaxitangcuner;;;;;;;;;;;x
 b_zhayingong;Zhayingong;Zhayingong;Zhayingong;;Zhayingong;;;;;;;;;x
 b_zhayingong_adj;Zhayingongian;;zhayingonger;;;;;;;;;;;x
+b_zhayuzhen;Zhayuzhen;Zhayuzhen;Zhayuzhen;;Zhayuzhen;;;;;;;;;x
+b_zhayuzhen_adj;Zhayuzhenian;;zhayuzhener;;;;;;;;;;;x
 b_zhazao;Zhazao;Zhazao;Zhazao;;Zhazao;;;;;;;;;x
 b_zhazao_adj;Zhazian;;zhazer;;;;;;;;;;;x
 b_zhekuang;Zhekuang;Zhekuang;Zhekuang;;Zhekuang;;;;;;;;;x
