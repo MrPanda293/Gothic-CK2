@@ -1,0 +1,33 @@
+#QIN
+technology = {
+	titles = {
+		d_chengcheng
+		d_dengzhou
+		d_dongming
+		d_golog
+		d_haidong
+		d_huachi
+		d_huiji
+		d_jiyuan
+		d_lingbao
+		d_mian
+		d_qiaocheng
+		d_shangsong
+		d_wanxiang
+		d_xiangcheng
+		d_xiatan
+		d_yongchang
+		d_zhenan
+		d_zoige
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

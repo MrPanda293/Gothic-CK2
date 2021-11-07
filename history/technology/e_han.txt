@@ -1,0 +1,46 @@
+#HAN
+technology = {
+	titles = {
+		d_beijing
+		d_binhe
+		d_chongming
+		d_dongxin
+		d_fengyang
+		d_gaochun
+		d_guannan
+		d_helou
+		d_huqiu
+		d_jiangdu
+		d_jinzhou
+		d_liutuan
+		d_luyi
+		d_mengyin
+		d_mingguang
+		d_neiqiu
+		d_ninghe
+		d_pengze
+		d_puning
+		d_quanshan
+		d_shanghai
+		d_si
+		d_tongcheng
+		d_tongshen
+		d_wei
+		d_wudi
+		d_wuxiang
+		d_xia
+		d_xijixi
+		d_xuanzhou
+		d_zhuolu
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

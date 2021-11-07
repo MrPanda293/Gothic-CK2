@@ -1,0 +1,42 @@
+#MINYUE
+technology = {
+	titles = {
+		d_changshan
+		d_chengxiang
+		d_fenghua
+		d_fuan
+		d_huangyan
+		d_jianou
+		d_jinggangshan
+		d_jinxian
+		d_keqiao
+		d_lianhua
+		d_longhai
+		d_longshan
+		d_loudi
+		d_luoyuan
+		d_ninghua
+		d_ouhai
+		d_poyang
+		d_pujiang
+		d_qingyuan
+		d_sangzhi
+		d_suining
+		d_tongxiang
+		d_wuping
+		d_wuyishan
+		d_xingguo
+		d_yongzhou
+		d_zhuji
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

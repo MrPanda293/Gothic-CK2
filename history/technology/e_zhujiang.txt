@@ -1,0 +1,42 @@
+#ZHUJIANG
+technology = {
+	titles = {
+		d_chuxiong
+		d_dagouzhen
+		d_fangchenggang
+		d_fengkai
+		d_guangnan
+		d_guiding
+		d_hong_kong
+		d_huaiji
+		d_huanjiang
+		d_lancang_lahu
+		d_libo
+		d_luodian
+		d_macau
+		d_nandan
+		d_pingnan
+		d_qingcheng
+		d_quanzhou
+		d_shangri_la
+		d_songming
+		d_suixi
+		d_tianlin
+		d_tieshangang
+		d_xingyi
+		d_youjiang
+		d_yuncheng
+		d_zhaoyang
+		d_zhenyuan
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

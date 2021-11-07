@@ -1,0 +1,36 @@
+#YANGTZE
+technology = {
+	titles = {
+		d_baokang
+		d_dangyang
+		d_dazhu
+		d_dazu
+		d_echeng
+		d_fuling
+		d_fushun
+		d_gaoping
+		d_huarong
+		d_huili
+		d_jiangjin
+		d_kaijiang
+		d_litang
+		d_qiang
+		d_sanxia
+		d_serxu
+		d_xianfeng
+		d_xichong
+		d_xihe
+		d_yajiang
+		d_zhuankou
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

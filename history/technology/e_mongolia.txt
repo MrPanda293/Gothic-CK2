@@ -1,0 +1,22 @@
+#MONGOLIA
+technology = {
+	titles = {
+		d_arxan
+		d_east_ujimqin
+		d_erdenetsagaan
+		d_khatanbulag
+		d_sonid
+		d_urad
+		d_yakeshi
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

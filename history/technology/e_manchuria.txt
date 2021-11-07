@@ -1,0 +1,37 @@
+#MANCHURIA
+technology = {
+	titles = {
+		d_aimin
+		d_antu
+		d_baicheng
+		d_baishan
+		d_daxing
+		d_donggang
+		d_dongning
+		d_fuyuan
+		d_huludao
+		d_linghai
+		d_lishu
+		d_longjiang
+		d_luobei
+		d_mishan
+		d_nangang
+		d_nanying
+		d_pulandian
+		d_raohe
+		d_tonghua
+		d_xifeng
+		d_xinbin
+		d_xunke
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
