@@ -1,0 +1,19 @@
+#JAPAN
+technology = {
+	titles = {
+		d_fukuoka
+		d_okinawa
+		d_satsunan
+		d_yaeyama
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

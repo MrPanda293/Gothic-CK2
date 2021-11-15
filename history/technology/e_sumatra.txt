@@ -1,0 +1,26 @@
+#SUMATRA
+technology = {
+	titles = {
+		d_bengkalis
+		d_hulumasen
+		d_langkat
+		d_muaro_jambi
+		d_ogan_komering_ilir
+		d_ogan_komering_ulu
+		d_pasaman
+		d_pesisir
+		d_pidie
+		d_rokan_hulu
+		d_tapanuli
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

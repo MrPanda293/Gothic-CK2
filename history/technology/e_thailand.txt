@@ -1,0 +1,17 @@
+#THAILAND
+technology = {
+	titles = {
+		d_suratthani
+		d_trang
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

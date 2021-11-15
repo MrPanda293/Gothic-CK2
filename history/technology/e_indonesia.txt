@@ -1,0 +1,42 @@
+#INDONESIA
+technology = {
+	titles = {
+		d_banten
+		d_bengkayang
+		d_berau
+		d_bintulu
+		d_bogor
+		d_brunei
+		d_daro
+		d_hulu_sungai
+		d_jombang
+		d_katingan
+		d_kinabatangan
+		d_kota_marudu
+		d_kotawaringin
+		d_kutai
+		d_kutai_kartanegara
+		d_landak
+		d_limbang
+		d_madura
+		d_malinau
+		d_melawi
+		d_north_kayong
+		d_nunukan
+		d_pulang_pisau
+		d_serian
+		d_sintang
+		d_sukamara
+		d_tenom
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

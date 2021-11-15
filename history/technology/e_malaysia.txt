@@ -1,0 +1,25 @@
+#MALAYSIA
+technology = {
+	titles = {
+		d_awan
+		d_batam
+		d_bintan
+		d_kelantan
+		d_manong
+		d_pekan
+		d_pogoh
+		d_putrajaya
+		d_siantan
+		d_singapore
+	}
+	769 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2500 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}
