@@ -1,0 +1,21 @@
+# c_legazpi
+
+# County Title
+title = c_legazpi
+
+# Settlements
+max_settlements = 4
+
+b_legazpi = castle
+#b_lulw_85 = city
+#b_lulw_86 = temple
+#b_lulw_87 = castle
+#b_lulw_88 = city
+#b_lulw_89 = temple
+#b_lulw_90 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

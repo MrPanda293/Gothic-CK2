@@ -1,0 +1,21 @@
+# c_batangas
+
+# County Title
+title = c_batangas
+
+# Settlements
+max_settlements = 4
+
+b_batangas = castle
+#b_lulw_55 = city
+#b_lulw_56 = temple
+#b_lulw_57 = castle
+#b_lulw_58 = city
+#b_lulw_59 = temple
+#b_lulw_60 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

@@ -1,0 +1,21 @@
+# c_puerto_princesa
+
+# County Title
+title = c_puerto_princesa
+
+# Settlements
+max_settlements = 4
+
+b_puerto_princesa = castle
+#b_lulw_163 = city
+#b_lulw_164 = temple
+#b_lulw_165 = castle
+#b_lulw_166 = city
+#b_lulw_167 = temple
+#b_lulw_168 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

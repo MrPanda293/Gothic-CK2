@@ -1,0 +1,21 @@
+# c_looc
+
+# County Title
+title = c_looc
+
+# Settlements
+max_settlements = 4
+
+b_looc = castle
+#b_lulw_97 = city
+#b_lulw_98 = temple
+#b_lulw_99 = castle
+#b_lulw_100 = city
+#b_lulw_101 = temple
+#b_lulw_102 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

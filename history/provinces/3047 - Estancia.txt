@@ -1,0 +1,21 @@
+# c_estancia
+
+# County Title
+title = c_estancia
+
+# Settlements
+max_settlements = 4
+
+b_estancia = castle
+#b_lulw_121 = city
+#b_lulw_122 = temple
+#b_lulw_123 = castle
+#b_lulw_124 = city
+#b_lulw_125 = temple
+#b_lulw_126 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

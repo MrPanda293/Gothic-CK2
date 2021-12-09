@@ -1,0 +1,21 @@
+# c_el_nido
+
+# County Title
+title = c_el_nido
+
+# Settlements
+max_settlements = 4
+
+b_el_nido = castle
+#b_lulw_151 = city
+#b_lulw_152 = temple
+#b_lulw_153 = castle
+#b_lulw_154 = city
+#b_lulw_155 = temple
+#b_lulw_156 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

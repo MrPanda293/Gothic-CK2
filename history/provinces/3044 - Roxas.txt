@@ -1,0 +1,21 @@
+# c_roxas
+
+# County Title
+title = c_roxas
+
+# Settlements
+max_settlements = 4
+
+b_roxas = castle
+#b_lulw_103 = city
+#b_lulw_104 = temple
+#b_lulw_105 = castle
+#b_lulw_106 = city
+#b_lulw_107 = temple
+#b_lulw_108 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

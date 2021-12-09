@@ -1,0 +1,21 @@
+# c_balabac
+
+# County Title
+title = c_balabac
+
+# Settlements
+max_settlements = 4
+
+b_balabac = castle
+#b_lulw_181 = city
+#b_lulw_182 = temple
+#b_lulw_183 = castle
+#b_lulw_184 = city
+#b_lulw_185 = temple
+#b_lulw_186 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

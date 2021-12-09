@@ -1,0 +1,21 @@
+# c_luzon
+
+# County Title
+title = c_luzon
+
+# Settlements
+max_settlements = 4
+
+b_luzon = castle
+#b_lulw_79 = city
+#b_lulw_80 = temple
+#b_lulw_81 = castle
+#b_lulw_82 = city
+#b_lulw_83 = temple
+#b_lulw_84 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

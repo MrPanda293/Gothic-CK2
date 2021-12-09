@@ -1,0 +1,21 @@
+# c_narra
+
+# County Title
+title = c_narra
+
+# Settlements
+max_settlements = 4
+
+b_narra = castle
+#b_lulw_169 = city
+#b_lulw_170 = temple
+#b_lulw_171 = castle
+#b_lulw_172 = city
+#b_lulw_173 = temple
+#b_lulw_174 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

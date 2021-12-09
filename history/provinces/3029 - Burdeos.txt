@@ -1,0 +1,21 @@
+# c_burdeos
+
+# County Title
+title = c_burdeos
+
+# Settlements
+max_settlements = 4
+
+b_burdeos = castle
+#b_lulw_13 = city
+#b_lulw_14 = temple
+#b_lulw_15 = castle
+#b_lulw_16 = city
+#b_lulw_17 = temple
+#b_lulw_18 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

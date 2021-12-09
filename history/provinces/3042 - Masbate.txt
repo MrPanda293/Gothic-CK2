@@ -1,0 +1,21 @@
+# c_masbate
+
+# County Title
+title = c_masbate
+
+# Settlements
+max_settlements = 4
+
+b_masbate = castle
+#b_lulw_91 = city
+#b_lulw_92 = temple
+#b_lulw_93 = castle
+#b_lulw_94 = city
+#b_lulw_95 = temple
+#b_lulw_96 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

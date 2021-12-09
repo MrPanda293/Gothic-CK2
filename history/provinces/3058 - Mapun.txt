@@ -1,0 +1,21 @@
+# c_mapun
+
+# County Title
+title = c_mapun
+
+# Settlements
+max_settlements = 4
+
+b_mapun = castle
+#b_lulw_187 = city
+#b_lulw_188 = temple
+#b_lulw_189 = castle
+#b_lulw_190 = city
+#b_lulw_191 = temple
+#b_lulw_192 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

@@ -1,0 +1,21 @@
+# c_san_vicente
+
+# County Title
+title = c_san_vicente
+
+# Settlements
+max_settlements = 4
+
+b_san_vicente = castle
+#b_lulw_157 = city
+#b_lulw_158 = temple
+#b_lulw_159 = castle
+#b_lulw_160 = city
+#b_lulw_161 = temple
+#b_lulw_162 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

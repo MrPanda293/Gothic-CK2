@@ -1,0 +1,21 @@
+# c_coron
+
+# County Title
+title = c_coron
+
+# Settlements
+max_settlements = 4
+
+b_coron = castle
+#b_lulw_145 = city
+#b_lulw_146 = temple
+#b_lulw_147 = castle
+#b_lulw_148 = city
+#b_lulw_149 = temple
+#b_lulw_150 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

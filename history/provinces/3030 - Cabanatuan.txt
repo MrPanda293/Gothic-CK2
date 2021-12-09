@@ -1,0 +1,21 @@
+# c_cabanatuan
+
+# County Title
+title = c_cabanatuan
+
+# Settlements
+max_settlements = 4
+
+b_cabanatuan = castle
+#b_lulw_19 = city
+#b_lulw_20 = temple
+#b_lulw_21 = castle
+#b_lulw_22 = city
+#b_lulw_23 = temple
+#b_lulw_24 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

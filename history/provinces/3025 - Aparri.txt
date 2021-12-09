@@ -1,0 +1,21 @@
+# c_aparri
+
+# County Title
+title = c_aparri
+
+# Settlements
+max_settlements = 4
+
+b_aparri = castle
+#b_ihubok = city
+#b_kaumbakan = temple
+#b_mahatao = castle
+#b_ivana = city
+#b_uyugan = temple
+#b_itbud = castle
+
+# Misc
+culture = siamese
+religion = theravada
+terrain = jungle
+#History

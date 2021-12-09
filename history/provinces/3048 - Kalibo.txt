@@ -1,0 +1,21 @@
+# c_kalibo
+
+# County Title
+title = c_kalibo
+
+# Settlements
+max_settlements = 4
+
+b_kalibo = castle
+#b_lulw_127 = city
+#b_lulw_128 = temple
+#b_lulw_129 = castle
+#b_lulw_130 = city
+#b_lulw_131 = temple
+#b_lulw_132 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

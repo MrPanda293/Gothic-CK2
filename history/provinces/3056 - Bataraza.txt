@@ -1,0 +1,21 @@
+# c_bataraza
+
+# County Title
+title = c_bataraza
+
+# Settlements
+max_settlements = 4
+
+b_bataraza = castle
+#b_lulw_175 = city
+#b_lulw_176 = temple
+#b_lulw_177 = castle
+#b_lulw_178 = city
+#b_lulw_179 = temple
+#b_lulw_180 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

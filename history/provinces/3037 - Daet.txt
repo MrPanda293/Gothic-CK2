@@ -1,0 +1,21 @@
+# c_daet
+
+# County Title
+title = c_daet
+
+# Settlements
+max_settlements = 4
+
+b_daet = castle
+#b_lulw_61 = city
+#b_lulw_62 = temple
+#b_lulw_63 = castle
+#b_lulw_64 = city
+#b_lulw_65 = temple
+#b_lulw_66 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

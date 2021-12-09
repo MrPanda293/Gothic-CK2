@@ -1,0 +1,21 @@
+# c_manila
+
+# County Title
+title = c_manila
+
+# Settlements
+max_settlements = 4
+
+b_manila = castle
+#b_lulw_31 = city
+#b_lulw_32 = temple
+#b_lulw_33 = castle
+#b_lulw_34 = city
+#b_lulw_35 = temple
+#b_lulw_36 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

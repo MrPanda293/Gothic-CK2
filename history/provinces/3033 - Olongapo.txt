@@ -1,0 +1,21 @@
+# c_olongapo
+
+# County Title
+title = c_olongapo
+
+# Settlements
+max_settlements = 4
+
+b_olongapo = castle
+#b_lulw_37 = city
+#b_lulw_38 = temple
+#b_lulw_39 = castle
+#b_lulw_40 = city
+#b_lulw_41 = temple
+#b_lulw_42 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

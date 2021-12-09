@@ -1,0 +1,21 @@
+# c_san_jose
+
+# County Title
+title = c_san_jose
+
+# Settlements
+max_settlements = 4
+
+b_san_jose = castle
+#b_lulw_139 = city
+#b_lulw_140 = temple
+#b_lulw_141 = castle
+#b_lulw_142 = city
+#b_lulw_143 = temple
+#b_lulw_144 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

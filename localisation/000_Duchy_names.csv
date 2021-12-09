@@ -1,123 +1,17 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-d_andaman;Andaman;Andaman;Andaman;;Andaman;;;;;;;;;x
-d_andaman_adj;Andamanian;;andamaner;;;;;;;;;;;x
-d_awan;Awan;Awan;Awan;;Awan;;;;;;;;;x
-d_awan_adj;Awanian;;awaner;;;;;;;;;;;x
-d_banten;Banten;Banten;Banten;;Banten;;;;;;;;;x
-d_banten_adj;Bantenian;;bantener;;;;;;;;;;;x
-d_batam;Batam;Batam;Batam;;Batam;;;;;;;;;x
-d_batam_adj;Batamian;;batamer;;;;;;;;;;;x
-d_bengkalis;Bengkalis;Bengkalis;Bengkalis;;Bengkalis;;;;;;;;;x
-d_bengkalis_adj;Bengkalisian;;bengkaliser;;;;;;;;;;;x
-d_bengkayang;Bengkayang;Bengkayang;Bengkayang;;Bengkayang;;;;;;;;;x
-d_bengkayang_adj;Bengkayangian;;bengkayanger;;;;;;;;;;;x
-d_berau;Berau;Berau;Berau;;Berau;;;;;;;;;x
-d_berau_adj;Berian;;berer;;;;;;;;;;;x
-d_bintan;Bintan;Bintan;Bintan;;Bintan;;;;;;;;;x
-d_bintan_adj;Bintanian;;bintaner;;;;;;;;;;;x
-d_bintulu;Bintulu;Bintulu;Bintulu;;Bintulu;;;;;;;;;x
-d_bintulu_adj;Bintulian;;bintuler;;;;;;;;;;;x
-d_bogor;Bogor;Bogor;Bogor;;Bogor;;;;;;;;;x
-d_bogor_adj;Bogorian;;bogorer;;;;;;;;;;;x
-d_brunei;Brunei;Brunei;Brunei;;Brunei;;;;;;;;;x
-d_brunei_adj;Brunian;;bruner;;;;;;;;;;;x
-d_chungcheong;Chungcheong;Chungcheong;Chungcheong;;Chungcheong;;;;;;;;;x
-d_chungcheong_adj;Chungcheongian;;chungcheonger;;;;;;;;;;;x
-d_daro;Daro;Daro;Daro;;Daro;;;;;;;;;x
-d_daro_adj;Darian;;darer;;;;;;;;;;;x
-d_fukuoka;Fukuoka;Fukuoka;Fukuoka;;Fukuoka;;;;;;;;;x
-d_fukuoka_adj;Fukuokan;;fukuoker;;;;;;;;;;;x
-d_hulu_sungai;Hulu Sungai;Hulu Sungai;Hulu Sungai;;Hulu Sungai;;;;;;;;;x
-d_hulu_sungai_adj;Hulu Sungian;;Hulu Sunger;;;;;;;;;;;x
-d_hulumasen;Hulumasen;Hulumasen;Hulumasen;;Hulumasen;;;;;;;;;x
-d_hulumasen_adj;Hulumasenian;;hulumasener;;;;;;;;;;;x
-d_jeju;Jeju;Jeju;Jeju;;Jeju;;;;;;;;;x
-d_jeju_adj;Jejian;;jejer;;;;;;;;;;;x
-d_jeolla;Jeolla;Jeolla;Jeolla;;Jeolla;;;;;;;;;x
-d_jeolla_adj;Jeollan;;jeoller;;;;;;;;;;;x
-d_jombang;Jombang;Jombang;Jombang;;Jombang;;;;;;;;;x
-d_jombang_adj;Jombangian;;jombanger;;;;;;;;;;;x
-d_katingan;Katingan;Katingan;Katingan;;Katingan;;;;;;;;;x
-d_katingan_adj;Katinganian;;katinganer;;;;;;;;;;;x
-d_kelantan;Kelantan;Kelantan;Kelantan;;Kelantan;;;;;;;;;x
-d_kelantan_adj;Kelantanian;;kelantaner;;;;;;;;;;;x
-d_khabarovsk;Khabarovsk;Khabarovsk;Khabarovsk;;Khabarovsk;;;;;;;;;x
-d_khabarovsk_adj;Khabarovskian;;khabarovsker;;;;;;;;;;;x
-d_kinabatangan;Kinabatangan;Kinabatangan;Kinabatangan;;Kinabatangan;;;;;;;;;x
-d_kinabatangan_adj;Kinabatanganian;;kinabatanganer;;;;;;;;;;;x
-d_kota_marudu;Kota Marudu;Kota Marudu;Kota Marudu;;Kota Marudu;;;;;;;;;x
-d_kota_marudu_adj;Kota Marudian;;Kota Maruder;;;;;;;;;;;x
-d_kotawaringin;Kotawaringin;Kotawaringin;Kotawaringin;;Kotawaringin;;;;;;;;;x
-d_kotawaringin_adj;Kotawaringinian;;kotawaringiner;;;;;;;;;;;x
-d_kutai;Kutai;Kutai;Kutai;;Kutai;;;;;;;;;x
-d_kutai_adj;Kutian;;kuter;;;;;;;;;;;x
-d_kutai_kartanegara;Kutai Kartanegara;Kutai Kartanegara;Kutai Kartanegara;;Kutai Kartanegara;;;;;;;;;x
-d_kutai_kartanegara_adj;Kutai Kartanegaran;;Kutai Kartanegarer;;;;;;;;;;;x
-d_landak;Landak;Landak;Landak;;Landak;;;;;;;;;x
-d_landak_adj;Landakian;;landaker;;;;;;;;;;;x
-d_langkat;Langkat;Langkat;Langkat;;Langkat;;;;;;;;;x
-d_langkat_adj;Langkatian;;langkater;;;;;;;;;;;x
-d_limbang;Limbang;Limbang;Limbang;;Limbang;;;;;;;;;x
-d_limbang_adj;Limbangian;;limbanger;;;;;;;;;;;x
-d_madura;Madura;Madura;Madura;;Madura;;;;;;;;;x
-d_madura_adj;Maduran;;madurer;;;;;;;;;;;x
-d_malinau;Malinau;Malinau;Malinau;;Malinau;;;;;;;;;x
-d_malinau_adj;Malinian;;maliner;;;;;;;;;;;x
-d_manong;Manong;Manong;Manong;;Manong;;;;;;;;;x
-d_manong_adj;Manongian;;manonger;;;;;;;;;;;x
-d_melawi;Melawi;Melawi;Melawi;;Melawi;;;;;;;;;x
-d_melawi_adj;Melawian;;melawer;;;;;;;;;;;x
+d_bicol;Bicol;Bicol;Bicol;;Bicol;;;;;;;;;x
+d_bicol_adj;Bicolian;;bicoler;;;;;;;;;;;x
+d_cagayan;Cagayan;Cagayan;Cagayan;;Cagayan;;;;;;;;;x
+d_cagayan_adj;Cagayanian;;cagayaner;;;;;;;;;;;x
+d_calabarzon;Calabarzon;Calabarzon;Calabarzon;;Calabarzon;;;;;;;;;x
+d_calabarzon_adj;Calabarzonian;;calabarzoner;;;;;;;;;;;x
+d_cordillera;Cordillera;Cordillera;Cordillera;;Cordillera;;;;;;;;;x
+d_cordillera_adj;Cordilleran;;cordillerer;;;;;;;;;;;x
+d_ilocos;Ilocos;Ilocos;Ilocos;;Ilocos;;;;;;;;;x
+d_ilocos_adj;Ilocosian;;ilocoser;;;;;;;;;;;x
 d_mimaropa;Mimaropa;Mimaropa;Mimaropa;;Mimaropa;;;;;;;;;x
 d_mimaropa_adj;Mimaropan;;mimaroper;;;;;;;;;;;x
-d_muaro_jambi;Muaro Jambi;Muaro Jambi;Muaro Jambi;;Muaro Jambi;;;;;;;;;x
-d_muaro_jambi_adj;Muaro Jambian;;Muaro Jamber;;;;;;;;;;;x
-d_north_kayong;North Kayong;North Kayong;North Kayong;;North Kayong;;;;;;;;;x
-d_north_kayong_adj;North Kayongian;;North Kayonger;;;;;;;;;;;x
-d_nunukan;Nunukan;Nunukan;Nunukan;;Nunukan;;;;;;;;;x
-d_nunukan_adj;Nunukanian;;nunukaner;;;;;;;;;;;x
-d_ogan_komering_ilir;Ogan Komering Ilir;Ogan Komering Ilir;Ogan Komering Ilir;;Ogan Komering Ilir;;;;;;;;;x
-d_ogan_komering_ilir_adj;Ogan Komering Ilirian;;Ogan Komering Ilirer;;;;;;;;;;;x
-d_ogan_komering_ulu;Ogan Komering Ulu;Ogan Komering Ulu;Ogan Komering Ulu;;Ogan Komering Ulu;;;;;;;;;x
-d_ogan_komering_ulu_adj;Ogan Komering Ulian;;Ogan Komering Uler;;;;;;;;;;;x
-d_okinawa;Okinawa;Okinawa;Okinawa;;Okinawa;;;;;;;;;x
-d_okinawa_adj;Okinawan;;okinawer;;;;;;;;;;;x
-d_pasaman;Pasaman;Pasaman;Pasaman;;Pasaman;;;;;;;;;x
-d_pasaman_adj;Pasamanian;;pasamaner;;;;;;;;;;;x
-d_pekan;Pekan;Pekan;Pekan;;Pekan;;;;;;;;;x
-d_pekan_adj;Pekanian;;pekaner;;;;;;;;;;;x
-d_pesisir;Pesisir;Pesisir;Pesisir;;Pesisir;;;;;;;;;x
-d_pesisir_adj;Pesisirian;;pesisirer;;;;;;;;;;;x
-d_pidie;Pidie;Pidie;Pidie;;Pidie;;;;;;;;;x
-d_pidie_adj;Pidiean;;pider;;;;;;;;;;;x
-d_pogoh;Pogoh;Pogoh;Pogoh;;Pogoh;;;;;;;;;x
-d_pogoh_adj;Pogohian;;pogoher;;;;;;;;;;;x
-d_pulang_pisau;Pulang Pisau;Pulang Pisau;Pulang Pisau;;Pulang Pisau;;;;;;;;;x
-d_pulang_pisau_adj;Pulang Pisian;;Pulang Piser;;;;;;;;;;;x
-d_putrajaya;Putrajaya;Putrajaya;Putrajaya;;Putrajaya;;;;;;;;;x
-d_putrajaya_adj;Putrajayan;;putrajaer;;;;;;;;;;;x
-d_rokan_hulu;Rokan Hulu;Rokan Hulu;Rokan Hulu;;Rokan Hulu;;;;;;;;;x
-d_rokan_hulu_adj;Rokan Hulian;;Rokan Huler;;;;;;;;;;;x
-d_satsunan;Satsunan;Satsunan;Satsunan;;Satsunan;;;;;;;;;x
-d_satsunan_adj;Satsunanian;;satsunaner;;;;;;;;;;;x
-d_serian;Serian;Serian;Serian;;Serian;;;;;;;;;x
-d_serian_adj;Serianian;;serianer;;;;;;;;;;;x
-d_siantan;Siantan;Siantan;Siantan;;Siantan;;;;;;;;;x
-d_siantan_adj;Siantanian;;siantaner;;;;;;;;;;;x
-d_singapore;Singapore;Singapore;Singapore;;Singapore;;;;;;;;;x
-d_singapore_adj;Singaporean;;singaporer;;;;;;;;;;;x
-d_sintang;Sintang;Sintang;Sintang;;Sintang;;;;;;;;;x
-d_sintang_adj;Sintangian;;sintanger;;;;;;;;;;;x
-d_sukamara;Sukamara;Sukamara;Sukamara;;Sukamara;;;;;;;;;x
-d_sukamara_adj;Sukamaran;;sukamarer;;;;;;;;;;;x
-d_suratthani;Suratthani;Suratthani;Suratthani;;Suratthani;;;;;;;;;x
-d_suratthani_adj;Suratthanian;;suratthaner;;;;;;;;;;;x
-d_tapanuli;Tapanuli;Tapanuli;Tapanuli;;Tapanuli;;;;;;;;;x
-d_tapanuli_adj;Tapanulian;;tapanuler;;;;;;;;;;;x
-d_tenom;Tenom;Tenom;Tenom;;Tenom;;;;;;;;;x
-d_tenom_adj;Tenomian;;tenomer;;;;;;;;;;;x
-d_tenssarim;Tenssarim;Tenssarim;Tenssarim;;Tenssarim;;;;;;;;;x
-d_tenssarim_adj;Tenssarimian;;tenssarimer;;;;;;;;;;;x
-d_trang;Trang;Trang;Trang;;Trang;;;;;;;;;x
-d_trang_adj;Trangian;;tranger;;;;;;;;;;;x
-d_yaeyama;Yaeyama;Yaeyama;Yaeyama;;Yaeyama;;;;;;;;;x
-d_yaeyama_adj;Yaeyaman;;yaeyamer;;;;;;;;;;;x
+d_mindoro;Mindoro;Mindoro;Mindoro;;Mindoro;;;;;;;;;x
+d_mindoro_adj;Mindorian;;mindorer;;;;;;;;;;;x
+d_visayas;Visayas;Visayas;Visayas;;Visayas;;;;;;;;;x
+d_visayas_adj;Visayasian;;visayaser;;;;;;;;;;;x

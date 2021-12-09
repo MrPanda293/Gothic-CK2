@@ -1,0 +1,21 @@
+# c_catanauan
+
+# County Title
+title = c_catanauan
+
+# Settlements
+max_settlements = 4
+
+b_catanauan = castle
+#b_lulw_43 = city
+#b_lulw_44 = temple
+#b_lulw_45 = castle
+#b_lulw_46 = city
+#b_lulw_47 = temple
+#b_lulw_48 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

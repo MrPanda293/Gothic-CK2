@@ -1,0 +1,6 @@
+# c_el_nido
+1066.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+	holder=1000
+}

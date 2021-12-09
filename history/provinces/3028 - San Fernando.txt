@@ -1,0 +1,21 @@
+# c_san_fernando
+
+# County Title
+title = c_san_fernando
+
+# Settlements
+max_settlements = 4
+
+b_san_fernando = castle
+#b_lulw_7 = city
+#b_lulw_8 = temple
+#b_lulw_9 = castle
+#b_lulw_10 = city
+#b_lulw_11 = temple
+#b_lulw_12 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

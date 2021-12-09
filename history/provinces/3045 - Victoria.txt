@@ -1,0 +1,21 @@
+# c_victoria
+
+# County Title
+title = c_victoria
+
+# Settlements
+max_settlements = 4
+
+b_victoria = castle
+#b_lulw_109 = city
+#b_lulw_110 = temple
+#b_lulw_111 = castle
+#b_lulw_112 = city
+#b_lulw_113 = temple
+#b_lulw_114 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

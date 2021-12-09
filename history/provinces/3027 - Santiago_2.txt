@@ -1,0 +1,21 @@
+# c_santiago_2
+
+# County Title
+title = c_santiago_2
+
+# Settlements
+max_settlements = 4
+
+b_santiago_3 = castle
+#b_lulw = city
+#b_lulw_2 = temple
+#b_lulw_3 = castle
+#b_lulw_4 = city
+#b_lulw_5 = temple
+#b_lulw_6 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

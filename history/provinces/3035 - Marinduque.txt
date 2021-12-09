@@ -1,0 +1,21 @@
+# c_marinduque
+
+# County Title
+title = c_marinduque
+
+# Settlements
+max_settlements = 4
+
+b_marinduque = castle
+#b_lulw_49 = city
+#b_lulw_50 = temple
+#b_lulw_51 = castle
+#b_lulw_52 = city
+#b_lulw_53 = temple
+#b_lulw_54 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

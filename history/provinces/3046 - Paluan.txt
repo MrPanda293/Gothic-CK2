@@ -1,0 +1,21 @@
+# c_paluan
+
+# County Title
+title = c_paluan
+
+# Settlements
+max_settlements = 4
+
+b_paluan = castle
+#b_lulw_115 = city
+#b_lulw_116 = temple
+#b_lulw_117 = castle
+#b_lulw_118 = city
+#b_lulw_119 = temple
+#b_lulw_120 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

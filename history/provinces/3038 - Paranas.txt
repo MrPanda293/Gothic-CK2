@@ -1,0 +1,21 @@
+# c_paranas
+
+# County Title
+title = c_paranas
+
+# Settlements
+max_settlements = 4
+
+b_paranas = castle
+#b_lulw_67 = city
+#b_lulw_68 = temple
+#b_lulw_69 = castle
+#b_lulw_70 = city
+#b_lulw_71 = temple
+#b_lulw_72 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

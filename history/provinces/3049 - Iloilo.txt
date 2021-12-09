@@ -1,0 +1,21 @@
+# c_iloilo
+
+# County Title
+title = c_iloilo
+
+# Settlements
+max_settlements = 4
+
+b_iloilo = castle
+#b_lulw_133 = city
+#b_lulw_134 = temple
+#b_lulw_135 = castle
+#b_lulw_136 = city
+#b_lulw_137 = temple
+#b_lulw_138 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

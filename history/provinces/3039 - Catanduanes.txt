@@ -1,0 +1,21 @@
+# c_catanduanes
+
+# County Title
+title = c_catanduanes
+
+# Settlements
+max_settlements = 4
+
+b_catanduanes = castle
+#b_lulw_73 = city
+#b_lulw_74 = temple
+#b_lulw_75 = castle
+#b_lulw_76 = city
+#b_lulw_77 = temple
+#b_lulw_78 = castle
+
+# Misc
+culture = cumming
+religion = deep
+terrain = jungle
+#History

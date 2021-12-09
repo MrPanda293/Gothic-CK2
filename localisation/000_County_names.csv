@@ -1,437 +1,71 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-c_aging;Aging;Aging;Aging;;Aging;;;;;;;;;x
-c_aging_adj;Agingian;;aginger;;;;;;;;;;;x
-c_amami;Amami;Amami;Amami;;Amami;;;;;;;;;x
-c_amami_adj;Amamian;;amamer;;;;;;;;;;;x
-c_atartulung;Atartulung;Atartulung;Atartulung;;Atartulung;;;;;;;;;x
-c_atartulung_adj;Atartulungian;;atartulunger;;;;;;;;;;;x
-c_babai;Babai;Babai;Babai;;Babai;;;;;;;;;x
-c_babai_adj;Babian;;baber;;;;;;;;;;;x
-c_bahau;Bahau;Bahau;Bahau;;Bahau;;;;;;;;;x
-c_bahau_adj;Bahian;;baher;;;;;;;;;;;x
-c_bahaur;Bahaur;Bahaur;Bahaur;;Bahaur;;;;;;;;;x
-c_bahaur_adj;Bahaurian;;bahaurer;;;;;;;;;;;x
-c_baliga;Baliga;Baliga;Baliga;;Baliga;;;;;;;;;x
-c_baliga_adj;Baligan;;baliger;;;;;;;;;;;x
-c_balikpapan;Balikpapan;Balikpapan;Balikpapan;;Balikpapan;;;;;;;;;x
-c_balikpapan_adj;Balikpapanian;;balikpapaner;;;;;;;;;;;x
-c_banda_aceh;Banda Aceh;Banda Aceh;Banda Aceh;;Banda Aceh;;;;;;;;;x
-c_banda_aceh_adj;Banda Acehian;;Banda Aceher;;;;;;;;;;;x
-c_bandar_seri_begawan;Bandar Seri Begawan;Bandar Seri Begawan;Bandar Seri Begawan;;Bandar Seri Begawan;;;;;;;;;x
-c_bandar_seri_begawan_adj;Bandar Seri Begawanian;;Bandar Seri Begawaner;;;;;;;;;;;x
-c_bangar;Bangar;Bangar;Bangar;;Bangar;;;;;;;;;x
-c_bangar_adj;Bangarian;;bangarer;;;;;;;;;;;x
-c_bangkinang;Bangkinang;Bangkinang;Bangkinang;;Bangkinang;;;;;;;;;x
-c_bangkinang_adj;Bangkinangian;;bangkinanger;;;;;;;;;;;x
-c_banjarbaru;Banjarbaru;Banjarbaru;Banjarbaru;;Banjarbaru;;;;;;;;;x
-c_banjarbaru_adj;Banjarbarian;;banjarbarer;;;;;;;;;;;x
-c_banyuwangi;Banyuwangi;Banyuwangi;Banyuwangi;;Banyuwangi;;;;;;;;;x
-c_banyuwangi_adj;Banyuwangian;;banyuwanger;;;;;;;;;;;x
-c_baruju;Baruju;Baruju;Baruju;;Baruju;;;;;;;;;x
-c_baruju_adj;Barujian;;barujer;;;;;;;;;;;x
-c_basawang;Basawang;Basawang;Basawang;;Basawang;;;;;;;;;x
-c_basawang_adj;Basawangian;;basawanger;;;;;;;;;;;x
-c_batahan;Batahan;Batahan;Batahan;;Batahan;;;;;;;;;x
-c_batahan_adj;Batahanian;;batahaner;;;;;;;;;;;x
-c_batam;Batam;Batam;Batam;;Batam;;;;;;;;;x
-c_batam_adj;Batamian;;batamer;;;;;;;;;;;x
-c_batu_pahat;Batu Pahat;Batu Pahat;Batu Pahat;;Batu Pahat;;;;;;;;;x
-c_batu_pahat_adj;Batu Pahatian;;Batu Pahater;;;;;;;;;;;x
-c_beaufort;Beaufort;Beaufort;Beaufort;;Beaufort;;;;;;;;;x
-c_beaufort_adj;Beaufortian;;beauforter;;;;;;;;;;;x
-c_belaga;Belaga;Belaga;Belaga;;Belaga;;;;;;;;;x
-c_belaga_adj;Belagan;;belager;;;;;;;;;;;x
-c_bentong;Bentong;Bentong;Bentong;;Bentong;;;;;;;;;x
-c_bentong_adj;Bentongian;;bentonger;;;;;;;;;;;x
-c_billiground;Billiground;Billiground;Billiground;;Billiground;;;;;;;;;x
-c_billiground_adj;Billigroundian;;billigrounder;;;;;;;;;;;x
-c_bintulu;Bintulu;Bintulu;Bintulu;;Bintulu;;;;;;;;;x
-c_bintulu_adj;Bintulian;;bintuler;;;;;;;;;;;x
-c_blangkejeren;Blangkejeren;Blangkejeren;Blangkejeren;;Blangkejeren;;;;;;;;;x
-c_blangkejeren_adj;Blangkejerenian;;blangkejerener;;;;;;;;;;;x
-c_blora;Blora;Blora;Blora;;Blora;;;;;;;;;x
-c_blora_adj;Bloran;;blorer;;;;;;;;;;;x
-c_bongao;Bongao;Bongao;Bongao;;Bongao;;;;;;;;;x
-c_bongao_adj;Bongian;;bonger;;;;;;;;;;;x
-c_bontang;Bontang;Bontang;Bontang;;Bontang;;;;;;;;;x
-c_bontang_adj;Bontangian;;bontanger;;;;;;;;;;;x
-c_bonti;Bonti;Bonti;Bonti;;Bonti;;;;;;;;;x
-c_bonti_adj;Bontian;;bonter;;;;;;;;;;;x
-c_bukittinggi;Bukittinggi;Bukittinggi;Bukittinggi;;Bukittinggi;;;;;;;;;x
-c_bukittinggi_adj;Bukittinggian;;bukittingger;;;;;;;;;;;x
-c_campbell_bay;Campbell Bay;Campbell Bay;Campbell Bay;;Campbell Bay;;;;;;;;;x
-c_campbell_bay_adj;Campbell Baian;;Campbell Baer;;;;;;;;;;;x
-c_dabong;Dabong;Dabong;Dabong;;Dabong;;;;;;;;;x
-c_dabong_adj;Dabongian;;dabonger;;;;;;;;;;;x
-c_denpasar;Denpasar;Denpasar;Denpasar;;Denpasar;;;;;;;;;x
-c_denpasar_adj;Denpasarian;;denpasarer;;;;;;;;;;;x
-c_djago;Djago;Djago;Djago;;Djago;;;;;;;;;x
-c_djago_adj;Djagian;;djager;;;;;;;;;;;x
-c_doesoenkeboeng;Doesoenkeboeng;Doesoenkeboeng;Doesoenkeboeng;;Doesoenkeboeng;;;;;;;;;x
-c_doesoenkeboeng_adj;Doesoenkeboengian;;doesoenkeboenger;;;;;;;;;;;x
-c_donggongon;Donggongon;Donggongon;Donggongon;;Donggongon;;;;;;;;;x
-c_donggongon_adj;Donggongonian;;donggongoner;;;;;;;;;;;x
-c_dumai;Dumai;Dumai;Dumai;;Dumai;;;;;;;;;x
-c_dumai_adj;Dumian;;dumer;;;;;;;;;;;x
-c_duri;Duri;Duri;Duri;;Duri;;;;;;;;;x
-c_duri_adj;Durian;;durer;;;;;;;;;;;x
-c_endau;Endau;Endau;Endau;;Endau;;;;;;;;;x
-c_endau_adj;Endian;;ender;;;;;;;;;;;x
-c_ensibau;Ensibau;Ensibau;Ensibau;;Ensibau;;;;;;;;;x
-c_ensibau_adj;Ensibian;;ensiber;;;;;;;;;;;x
-c_galang;Galang;Galang;Galang;;Galang;;;;;;;;;x
-c_galang_adj;Galangian;;galanger;;;;;;;;;;;x
-c_geoje;Geoje;Geoje;Geoje;;Geoje;;;;;;;;;x
-c_geoje_adj;Geojean;;geojer;;;;;;;;;;;x
-c_golong;Golong;Golong;Golong;;Golong;;;;;;;;;x
-c_golong_adj;Golongian;;golonger;;;;;;;;;;;x
-c_gresik;Gresik;Gresik;Gresik;;Gresik;;;;;;;;;x
-c_gresik_adj;Gresikian;;gresiker;;;;;;;;;;;x
-c_gua_musang;Gua Musang;Gua Musang;Gua Musang;;Gua Musang;;;;;;;;;x
-c_gua_musang_adj;Gua Musangian;;Gua Musanger;;;;;;;;;;;x
-c_gunungritan;Gunungritan;Gunungritan;Gunungritan;;Gunungritan;;;;;;;;;x
-c_gunungritan_adj;Gunungritanian;;gunungritaner;;;;;;;;;;;x
-c_gunungtabur;Gunungtabur;Gunungtabur;Gunungtabur;;Gunungtabur;;;;;;;;;x
-c_gunungtabur_adj;Gunungtaburian;;gunungtaburer;;;;;;;;;;;x
-c_iki;Iki;Iki;Iki;;Iki;;;;;;;;;x
-c_iki_adj;Ikian;;iker;;;;;;;;;;;x
-c_indira_bazar;Indira Bazar;Indira Bazar;Indira Bazar;;Indira Bazar;;;;;;;;;x
-c_indira_bazar_adj;Indira Bazarian;;Indira Bazarer;;;;;;;;;;;x
-c_ipoh;Ipoh;Ipoh;Ipoh;;Ipoh;;;;;;;;;x
-c_ipoh_adj;Ipohian;;ipoher;;;;;;;;;;;x
-c_ishigaki;Ishigaki;Ishigaki;Ishigaki;;Ishigaki;;;;;;;;;x
-c_ishigaki_adj;Ishigakian;;ishigaker;;;;;;;;;;;x
-c_itoman;Itoman;Itoman;Itoman;;Itoman;;;;;;;;;x
-c_itoman_adj;Itomanian;;itomaner;;;;;;;;;;;x
-c_izena;Izena;Izena;Izena;;Izena;;;;;;;;;x
-c_izena_adj;Izenan;;izener;;;;;;;;;;;x
-c_jambi;Jambi;Jambi;Jambi;;Jambi;;;;;;;;;x
-c_jambi_adj;Jambian;;jamber;;;;;;;;;;;x
-c_jeju;Jeju;Jeju;Jeju;;Jeju;;;;;;;;;x
-c_jeju_adj;Jejian;;jejer;;;;;;;;;;;x
-c_jeunieb;Jeunieb;Jeunieb;Jeunieb;;Jeunieb;;;;;;;;;x
-c_jeunieb_adj;Jeuniebian;;jeunieber;;;;;;;;;;;x
-c_johor_bahru;Johor Bahru;Johor Bahru;Johor Bahru;;Johor Bahru;;;;;;;;;x
-c_johor_bahru_adj;Johor Bahrian;;Johor Bahrer;;;;;;;;;;;x
-c_jolo;Jolo;Jolo;Jolo;;Jolo;;;;;;;;;x
-c_jolo_adj;Jolian;;joler;;;;;;;;;;;x
-c_kadan;Kadan;Kadan;Kadan;;Kadan;;;;;;;;;x
-c_kadan_adj;Kadanian;;kadaner;;;;;;;;;;;x
-c_kalasin;Kalasin;Kalasin;Kalasin;;Kalasin;;;;;;;;;x
-c_kalasin_adj;Kalasinian;;kalasiner;;;;;;;;;;;x
-c_kampar;Kampar;Kampar;Kampar;;Kampar;;;;;;;;;x
-c_kampar_adj;Kamparian;;kamparer;;;;;;;;;;;x
-c_kampong_salulong;Kampong Salulong;Kampong Salulong;Kampong Salulong;;Kampong Salulong;;;;;;;;;x
-c_kampong_salulong_adj;Kampong Salulongian;;Kampong Salulonger;;;;;;;;;;;x
-c_kandangan;Kandangan;Kandangan;Kandangan;;Kandangan;;;;;;;;;x
-c_kandangan_adj;Kandanganian;;kandanganer;;;;;;;;;;;x
-c_kangboi;Kangboi;Kangboi;Kangboi;;Kangboi;;;;;;;;;x
-c_kangboi_adj;Kangbian;;kangber;;;;;;;;;;;x
-c_kapit;Kapit;Kapit;Kapit;;Kapit;;;;;;;;;x
-c_kapit_adj;Kapitian;;kapiter;;;;;;;;;;;x
-c_kartika_bhakti;Kartika Bhakti;Kartika Bhakti;Kartika Bhakti;;Kartika Bhakti;;;;;;;;;x
-c_kartika_bhakti_adj;Kartika Bhaktian;;Kartika Bhakter;;;;;;;;;;;x
-c_kedah;Kedah;Kedah;Kedah;;Kedah;;;;;;;;;x
-c_kedah_adj;Kedahian;;kedaher;;;;;;;;;;;x
-c_kelomang;Kelomang;Kelomang;Kelomang;;Kelomang;;;;;;;;;x
-c_kelomang_adj;Kelomangian;;kelomanger;;;;;;;;;;;x
-c_keluang;Keluang;Keluang;Keluang;;Keluang;;;;;;;;;x
-c_keluang_adj;Keluangian;;keluanger;;;;;;;;;;;x
-c_kembang;Kembang;Kembang;Kembang;;Kembang;;;;;;;;;x
-c_kembang_adj;Kembangian;;kembanger;;;;;;;;;;;x
-c_keningau;Keningau;Keningau;Keningau;;Keningau;;;;;;;;;x
-c_keningau_adj;Keningian;;keninger;;;;;;;;;;;x
-c_khudirampur;Khudirampur;Khudirampur;Khudirampur;;Khudirampur;;;;;;;;;x
-c_khudirampur_adj;Khudirampurian;;khudirampurer;;;;;;;;;;;x
-c_koealasapo;Koealasapo;Koealasapo;Koealasapo;;Koealasapo;;;;;;;;;x
-c_koealasapo_adj;Koealasapian;;koealasaper;;;;;;;;;;;x
-c_koh_samui;Koh Samui;Koh Samui;Koh Samui;;Koh Samui;;;;;;;;;x
-c_koh_samui_adj;Koh Samian;;Koh Samer;;;;;;;;;;;x
-c_kota_bharu;Kota Bharu;Kota Bharu;Kota Bharu;;Kota Bharu;;;;;;;;;x
-c_kota_bharu_adj;Kota Bharian;;Kota Bharer;;;;;;;;;;;x
-c_kuala_lipis;Kuala Lipis;Kuala Lipis;Kuala Lipis;;Kuala Lipis;;;;;;;;;x
-c_kuala_lipis_adj;Kuala Lipisian;;Kuala Lipiser;;;;;;;;;;;x
-c_kuala_lumpur;Kuala Lumpur;Kuala Lumpur;Kuala Lumpur;;Kuala Lumpur;;;;;;;;;x
-c_kuala_lumpur_adj;Kuala Lumpurian;;Kuala Lumpurer;;;;;;;;;;;x
-c_kualajelai;Kualajelai;Kualajelai;Kualajelai;;Kualajelai;;;;;;;;;x
-c_kualajelai_adj;Kualajelian;;kualajeler;;;;;;;;;;;x
-c_kuantan;Kuantan;Kuantan;Kuantan;;Kuantan;;;;;;;;;x
-c_kuantan_adj;Kuantanian;;kuantaner;;;;;;;;;;;x
-c_kumejima;Kumejima;Kumejima;Kumejima;;Kumejima;;;;;;;;;x
-c_kumejima_adj;Kumejiman;;kumejimer;;;;;;;;;;;x
-c_kunashir;Kunashir;Kunashir;Kunashir;;Kunashir;;;;;;;;;x
-c_kunashir_adj;Kunashirian;;kunashirer;;;;;;;;;;;x
-c_kupangnuding;Kupangnuding;Kupangnuding;Kupangnuding;;Kupangnuding;;;;;;;;;x
-c_kupangnuding_adj;Kupangnudingian;;kupangnudinger;;;;;;;;;;;x
-c_kutabagok;Kutabagok;Kutabagok;Kutabagok;;Kutabagok;;;;;;;;;x
-c_kutabagok_adj;Kutabagokian;;kutabagoker;;;;;;;;;;;x
-c_lahad_datu;Lahad Datu;Lahad Datu;Lahad Datu;;Lahad Datu;;;;;;;;;x
-c_lahad_datu_adj;Lahad Datian;;Lahad Dater;;;;;;;;;;;x
-c_lahang;Lahang;Lahang;Lahang;;Lahang;;;;;;;;;x
-c_lahang_adj;Lahangian;;lahanger;;;;;;;;;;;x
-c_lahewa;Lahewa;Lahewa;Lahewa;;Lahewa;;;;;;;;;x
-c_lahewa_adj;Lahewan;;lahewer;;;;;;;;;;;x
-c_lakshmanpur;Lakshmanpur;Lakshmanpur;Lakshmanpur;;Lakshmanpur;;;;;;;;;x
-c_lakshmanpur_adj;Lakshmanpurian;;lakshmanpurer;;;;;;;;;;;x
-c_langkawi;Langkawi;Langkawi;Langkawi;;Langkawi;;;;;;;;;x
-c_langkawi_adj;Langkawian;;langkawer;;;;;;;;;;;x
-c_langsa;Langsa;Langsa;Langsa;;Langsa;;;;;;;;;x
-c_langsa_adj;Langsan;;langser;;;;;;;;;;;x
-c_lasan;Lasan;Lasan;Lasan;;Lasan;;;;;;;;;x
-c_lasan_adj;Lasanian;;lasaner;;;;;;;;;;;x
-c_letong;Letong;Letong;Letong;;Letong;;;;;;;;;x
-c_letong_adj;Letongian;;letonger;;;;;;;;;;;x
-c_limbang;Limbang;Limbang;Limbang;;Limbang;;;;;;;;;x
-c_limbang_adj;Limbangian;;limbanger;;;;;;;;;;;x
-c_limbuak;Limbuak;Limbuak;Limbuak;;Limbuak;;;;;;;;;x
-c_limbuak_adj;Limbuakian;;limbuaker;;;;;;;;;;;x
-c_long_lurah;Long Lurah;Long Lurah;Long Lurah;;Long Lurah;;;;;;;;;x
-c_long_lurah_adj;Long Lurahian;;Long Luraher;;;;;;;;;;;x
-c_long_murum;Long Murum;Long Murum;Long Murum;;Long Murum;;;;;;;;;x
-c_long_murum_adj;Long Murumian;;Long Murumer;;;;;;;;;;;x
-c_longdjanew;Longdjanew;Longdjanew;Longdjanew;;Longdjanew;;;;;;;;;x
-c_longdjanew_adj;Longdjanewian;;longdjanewer;;;;;;;;;;;x
-c_longpahangai;Longpahangai;Longpahangai;Longpahangai;;Longpahangai;;;;;;;;;x
-c_longpahangai_adj;Longpahangian;;longpahanger;;;;;;;;;;;x
-c_lubuklinggau;Lubuklinggau;Lubuklinggau;Lubuklinggau;;Lubuklinggau;;;;;;;;;x
-c_lubuklinggau_adj;Lubuklinggian;;lubuklingger;;;;;;;;;;;x
-c_lukit;Lukit;Lukit;Lukit;;Lukit;;;;;;;;;x
-c_lukit_adj;Lukitian;;lukiter;;;;;;;;;;;x
-c_lunggajan;Lunggajan;Lunggajan;Lunggajan;;Lunggajan;;;;;;;;;x
-c_lunggajan_adj;Lunggajanian;;lunggajaner;;;;;;;;;;;x
-c_madiun;Madiun;Madiun;Madiun;;Madiun;;;;;;;;;x
-c_madiun_adj;Madiunian;;madiuner;;;;;;;;;;;x
-c_malacca;Malacca;Malacca;Malacca;;Malacca;;;;;;;;;x
-c_malacca_adj;Malaccan;;malaccer;;;;;;;;;;;x
-c_malang;Malang;Malang;Malang;;Malang;;;;;;;;;x
-c_malang_adj;Malangian;;malanger;;;;;;;;;;;x
-c_mandarsah;Mandarsah;Mandarsah;Mandarsah;;Mandarsah;;;;;;;;;x
-c_mandarsah_adj;Mandarsahian;;mandarsaher;;;;;;;;;;;x
-c_manggeng;Manggeng;Manggeng;Manggeng;;Manggeng;;;;;;;;;x
-c_manggeng_adj;Manggengian;;manggenger;;;;;;;;;;;x
-c_marudi;Marudi;Marudi;Marudi;;Marudi;;;;;;;;;x
-c_marudi_adj;Marudian;;maruder;;;;;;;;;;;x
-c_medan;Medan;Medan;Medan;;Medan;;;;;;;;;x
-c_medan_adj;Medanian;;medaner;;;;;;;;;;;x
-c_mempawah;Mempawah;Mempawah;Mempawah;;Mempawah;;;;;;;;;x
-c_mempawah_adj;Mempawahian;;mempawaher;;;;;;;;;;;x
-c_mersing;Mersing;Mersing;Mersing;;Mersing;;;;;;;;;x
-c_mersing_adj;Mersingian;;mersinger;;;;;;;;;;;x
-c_meulaboh;Meulaboh;Meulaboh;Meulaboh;;Meulaboh;;;;;;;;;x
-c_meulaboh_adj;Meulabohian;;meulaboher;;;;;;;;;;;x
-c_miri;Miri;Miri;Miri;;Miri;;;;;;;;;x
-c_miri_adj;Mirian;;mirer;;;;;;;;;;;x
-c_miyakojima;Miyakojima;Miyakojima;Miyakojima;;Miyakojima;;;;;;;;;x
-c_miyakojima_adj;Miyakojiman;;miyakojimer;;;;;;;;;;;x
-c_monggok;Monggok;Monggok;Monggok;;Monggok;;;;;;;;;x
-c_monggok_adj;Monggokian;;monggoker;;;;;;;;;;;x
-c_muara_enim;Muara Enim;Muara Enim;Muara Enim;;Muara Enim;;;;;;;;;x
-c_muara_enim_adj;Muara Enimian;;Muara Enimer;;;;;;;;;;;x
-c_muara_teweh;Muara Teweh;Muara Teweh;Muara Teweh;;Muara Teweh;;;;;;;;;x
-c_muara_teweh_adj;Muara Tewehian;;Muara Teweher;;;;;;;;;;;x
-c_muarakaman;Muarakaman;Muarakaman;Muarakaman;;Muarakaman;;;;;;;;;x
-c_muarakaman_adj;Muarakamanian;;muarakamaner;;;;;;;;;;;x
-c_mukah;Mukah;Mukah;Mukah;;Mukah;;;;;;;;;x
-c_mukah_adj;Mukahian;;mukaher;;;;;;;;;;;x
-c_nabawan;Nabawan;Nabawan;Nabawan;;Nabawan;;;;;;;;;x
-c_nabawan_adj;Nabawanian;;nabawaner;;;;;;;;;;;x
-c_nagatajap;Nagatajap;Nagatajap;Nagatajap;;Nagatajap;;;;;;;;;x
-c_nagatajap_adj;Nagatajapian;;nagatajaper;;;;;;;;;;;x
-c_nago;Nago;Nago;Nago;;Nago;;;;;;;;;x
-c_nago_adj;Nagian;;nager;;;;;;;;;;;x
-c_naibos;Naibos;Naibos;Naibos;;Naibos;;;;;;;;;x
-c_naibos_adj;Naibosian;;naiboser;;;;;;;;;;;x
-c_namhae;Namhae;Namhae;Namhae;;Namhae;;;;;;;;;x
-c_namhae_adj;Namhaean;;namher;;;;;;;;;;;x
-c_namis;Namis;Namis;Namis;;Namis;;;;;;;;;x
-c_namis_adj;Namisian;;namiser;;;;;;;;;;;x
-c_nanga_sokan;Nanga Sokan;Nanga Sokan;Nanga Sokan;;Nanga Sokan;;;;;;;;;x
-c_nanga_sokan_adj;Nanga Sokanian;;Nanga Sokaner;;;;;;;;;;;x
-c_nangah_seloewa;Nangah Seloewa;Nangah Seloewa;Nangah Seloewa;;Nangah Seloewa;;;;;;;;;x
-c_nangah_seloewa_adj;Nangah Seloewan;;Nangah Seloewer;;;;;;;;;;;x
-c_okinawa;Okinawa;Okinawa;Okinawa;;Okinawa;;;;;;;;;x
-c_okinawa_adj;Okinawan;;okinawer;;;;;;;;;;;x
-c_pa_dali;Pa Dali;Pa Dali;Pa Dali;;Pa Dali;;;;;;;;;x
-c_pa_dali_adj;Pa Dalian;;Pa Daler;;;;;;;;;;;x
-c_padang;Padang;Padang;Padang;;Padang;;;;;;;;;x
-c_padang_adj;Padangian;;padanger;;;;;;;;;;;x
-c_pagatan;Pagatan;Pagatan;Pagatan;;Pagatan;;;;;;;;;x
-c_pagatan_adj;Pagatanian;;pagataner;;;;;;;;;;;x
-c_painan;Painan;Painan;Painan;;Painan;;;;;;;;;x
-c_painan_adj;Painanian;;painaner;;;;;;;;;;;x
-c_paku;Paku;Paku;Paku;;Paku;;;;;;;;;x
-c_paku_adj;Pakian;;paker;;;;;;;;;;;x
-c_palangkaraya;Palangkaraya;Palangkaraya;Palangkaraya;;Palangkaraya;;;;;;;;;x
-c_palangkaraya_adj;Palangkarayan;;palangkaraer;;;;;;;;;;;x
-c_palembang;Palembang;Palembang;Palembang;;Palembang;;;;;;;;;x
-c_palembang_adj;Palembangian;;palembanger;;;;;;;;;;;x
-c_pandami;Pandami;Pandami;Pandami;;Pandami;;;;;;;;;x
-c_pandami_adj;Pandamian;;pandamer;;;;;;;;;;;x
-c_pangke;Pangke;Pangke;Pangke;;Pangke;;;;;;;;;x
-c_pangke_adj;Pangkean;;pangker;;;;;;;;;;;x
-c_pasir_pengaraian;Pasir Pengaraian;Pasir Pengaraian;Pasir Pengaraian;;Pasir Pengaraian;;;;;;;;;x
-c_pasir_pengaraian_adj;Pasir Pengaraianian;;Pasir Pengaraianer;;;;;;;;;;;x
-c_pattani;Pattani;Pattani;Pattani;;Pattani;;;;;;;;;x
-c_pattani_adj;Pattanian;;pattaner;;;;;;;;;;;x
-c_pauh;Pauh;Pauh;Pauh;;Pauh;;;;;;;;;x
-c_pauh_adj;Pauhian;;pauher;;;;;;;;;;;x
-c_payakumbuh;Payakumbuh;Payakumbuh;Payakumbuh;;Payakumbuh;;;;;;;;;x
-c_payakumbuh_adj;Payakumbuhian;;payakumbuher;;;;;;;;;;;x
-c_pekanbaru;Pekanbaru;Pekanbaru;Pekanbaru;;Pekanbaru;;;;;;;;;x
-c_pekanbaru_adj;Pekanbarian;;pekanbarer;;;;;;;;;;;x
-c_pembeliangan;Pembeliangan;Pembeliangan;Pembeliangan;;Pembeliangan;;;;;;;;;x
-c_pembeliangan_adj;Pembelianganian;;pembelianganer;;;;;;;;;;;x
-c_penai;Penai;Penai;Penai;;Penai;;;;;;;;;x
-c_penai_adj;Penian;;pener;;;;;;;;;;;x
-c_penang;Penang;Penang;Penang;;Penang;;;;;;;;;x
-c_penang_adj;Penangian;;penanger;;;;;;;;;;;x
-c_perbaungan;Perbaungan;Perbaungan;Perbaungan;;Perbaungan;;;;;;;;;x
-c_perbaungan_adj;Perbaunganian;;perbaunganer;;;;;;;;;;;x
-c_pesaguan;Pesaguan;Pesaguan;Pesaguan;;Pesaguan;;;;;;;;;x
-c_pesaguan_adj;Pesaguanian;;pesaguaner;;;;;;;;;;;x
-c_pontianak;Pontianak;Pontianak;Pontianak;;Pontianak;;;;;;;;;x
-c_pontianak_adj;Pontianakian;;pontianaker;;;;;;;;;;;x
-c_port_blair;Port Blair;Port Blair;Port Blair;;Port Blair;;;;;;;;;x
-c_port_blair_adj;Port Blairian;;Port Blairer;;;;;;;;;;;x
-c_poso;Poso;Poso;Poso;;Poso;;;;;;;;;x
-c_poso_adj;Posian;;poser;;;;;;;;;;;x
-c_probolinggo;Probolinggo;Probolinggo;Probolinggo;;Probolinggo;;;;;;;;;x
-c_probolinggo_adj;Probolinggian;;probolingger;;;;;;;;;;;x
-c_pundu;Pundu;Pundu;Pundu;;Pundu;;;;;;;;;x
-c_pundu_adj;Pundian;;punder;;;;;;;;;;;x
-c_purwodadi;Purwodadi;Purwodadi;Purwodadi;;Purwodadi;;;;;;;;;x
-c_purwodadi_adj;Purwodadian;;purwodader;;;;;;;;;;;x
-c_pyoseon;Pyoseon;Pyoseon;Pyoseon;;Pyoseon;;;;;;;;;x
-c_pyoseon_adj;Pyoseonian;;pyoseoner;;;;;;;;;;;x
-c_ranai;Ranai;Ranai;Ranai;;Ranai;;;;;;;;;x
-c_ranai_adj;Ranian;;raner;;;;;;;;;;;x
-c_ranau;Ranau;Ranau;Ranau;;Ranau;;;;;;;;;x
-c_ranau_adj;Ranian;;raner;;;;;;;;;;;x
-c_roban;Roban;Roban;Roban;;Roban;;;;;;;;;x
-c_roban_adj;Robanian;;robaner;;;;;;;;;;;x
-c_rupat;Rupat;Rupat;Rupat;;Rupat;;;;;;;;;x
-c_rupat_adj;Rupatian;;rupater;;;;;;;;;;;x
-c_sabak;Sabak;Sabak;Sabak;;Sabak;;;;;;;;;x
-c_sabak_adj;Sabakian;;sabaker;;;;;;;;;;;x
-c_sakhalinsk;Sakhalinsk;Sakhalinsk;Sakhalinsk;;Sakhalinsk;;;;;;;;;x
-c_sakhalinsk_adj;Sakhalinskian;;sakhalinsker;;;;;;;;;;;x
-c_samarinda;Samarinda;Samarinda;Samarinda;;Samarinda;;;;;;;;;x
-c_samarinda_adj;Samarindan;;samarinder;;;;;;;;;;;x
-c_sambas;Sambas;Sambas;Sambas;;Sambas;;;;;;;;;x
-c_sambas_adj;Sambasian;;sambaser;;;;;;;;;;;x
-c_sambau;Sambau;Sambau;Sambau;;Sambau;;;;;;;;;x
-c_sambau_adj;Sambian;;samber;;;;;;;;;;;x
-c_sampit;Sampit;Sampit;Sampit;;Sampit;;;;;;;;;x
-c_sampit_adj;Sampitian;;sampiter;;;;;;;;;;;x
-c_sangkapura;Sangkapura;Sangkapura;Sangkapura;;Sangkapura;;;;;;;;;x
-c_sangkapura_adj;Sangkapuran;;sangkapurer;;;;;;;;;;;x
-c_sawo;Sawo;Sawo;Sawo;;Sawo;;;;;;;;;x
-c_sawo_adj;Sawian;;sawer;;;;;;;;;;;x
-c_sebauh;Sebauh;Sebauh;Sebauh;;Sebauh;;;;;;;;;x
-c_sebauh_adj;Sebauhian;;sebauher;;;;;;;;;;;x
-c_segamat;Segamat;Segamat;Segamat;;Segamat;;;;;;;;;x
-c_segamat_adj;Segamatian;;segamater;;;;;;;;;;;x
-c_semarang;Semarang;Semarang;Semarang;;Semarang;;;;;;;;;x
-c_semarang_adj;Semarangian;;semaranger;;;;;;;;;;;x
-c_semporna;Semporna;Semporna;Semporna;;Semporna;;;;;;;;;x
-c_semporna_adj;Sempornan;;semporner;;;;;;;;;;;x
-c_seremban;Seremban;Seremban;Seremban;;Seremban;;;;;;;;;x
-c_seremban_adj;Serembanian;;serembaner;;;;;;;;;;;x
-c_serian;Serian;Serian;Serian;;Serian;;;;;;;;;x
-c_serian_adj;Serianian;;serianer;;;;;;;;;;;x
-c_setouchi;Setouchi;Setouchi;Setouchi;;Setouchi;;;;;;;;;x
-c_setouchi_adj;Setouchian;;setoucher;;;;;;;;;;;x
-c_siak_sri_indrapura;Siak Sri Indrapura;Siak Sri Indrapura;Siak Sri Indrapura;;Siak Sri Indrapura;;;;;;;;;x
-c_siak_sri_indrapura_adj;Siak Sri Indrapuran;;Siak Sri Indrapurer;;;;;;;;;;;x
-c_sibabau;Sibabau;Sibabau;Sibabau;;Sibabau;;;;;;;;;x
-c_sibabau_adj;Sibabian;;sibaber;;;;;;;;;;;x
-c_sibolga;Sibolga;Sibolga;Sibolga;;Sibolga;;;;;;;;;x
-c_sibolga_adj;Sibolgan;;sibolger;;;;;;;;;;;x
-c_sibu;Sibu;Sibu;Sibu;;Sibu;;;;;;;;;x
-c_sibu_adj;Sibian;;siber;;;;;;;;;;;x
-c_sidikalang;Sidikalang;Sidikalang;Sidikalang;;Sidikalang;;;;;;;;;x
-c_sidikalang_adj;Sidikalangian;;sidikalanger;;;;;;;;;;;x
-c_simnangpesa;Simnangpesa;Simnangpesa;Simnangpesa;;Simnangpesa;;;;;;;;;x
-c_simnangpesa_adj;Simnangpesan;;simnangpeser;;;;;;;;;;;x
-c_singapore;Singapore;Singapore;Singapore;;Singapore;;;;;;;;;x
-c_singapore_adj;Singaporean;;singaporer;;;;;;;;;;;x
-c_singkawang;Singkawang;Singkawang;Singkawang;;Singkawang;;;;;;;;;x
-c_singkawang_adj;Singkawangian;;singkawanger;;;;;;;;;;;x
-c_sintang;Sintang;Sintang;Sintang;;Sintang;;;;;;;;;x
-c_sintang_adj;Sintangian;;sintanger;;;;;;;;;;;x
-c_sipitang;Sipitang;Sipitang;Sipitang;;Sipitang;;;;;;;;;x
-c_sipitang_adj;Sipitangian;;sipitanger;;;;;;;;;;;x
-c_sitiung;Sitiung;Sitiung;Sitiung;;Sitiung;;;;;;;;;x
-c_sitiung_adj;Sitiungian;;sitiunger;;;;;;;;;;;x
-c_song;Song;Song;Song;;Song;;;;;;;;;x
-c_song_adj;Songian;;songer;;;;;;;;;;;x
-c_songai;Songai;Songai;Songai;;Songai;;;;;;;;;x
-c_songai_adj;Songian;;songer;;;;;;;;;;;x
-c_sri_aman;Sri Aman;Sri Aman;Sri Aman;;Sri Aman;;;;;;;;;x
-c_sri_aman_adj;Sri Amanian;;Sri Amaner;;;;;;;;;;;x
-c_sundergarh;Sundergarh;Sundergarh;Sundergarh;;Sundergarh;;;;;;;;;x
-c_sundergarh_adj;Sundergarhian;;sundergarher;;;;;;;;;;;x
-c_sungai_penuh;Sungai Penuh;Sungai Penuh;Sungai Penuh;;Sungai Penuh;;;;;;;;;x
-c_sungai_penuh_adj;Sungai Penuhian;;Sungai Penuher;;;;;;;;;;;x
-c_sungai_selan;Sungai Selan;Sungai Selan;Sungai Selan;;Sungai Selan;;;;;;;;;x
-c_sungai_selan_adj;Sungai Selanian;;Sungai Selaner;;;;;;;;;;;x
-c_surabaya;Surabaya;Surabaya;Surabaya;;Surabaya;;;;;;;;;x
-c_surabaya_adj;Surabayan;;surabaer;;;;;;;;;;;x
-c_taketomi;Taketomi;Taketomi;Taketomi;;Taketomi;;;;;;;;;x
-c_taketomi_adj;Taketomian;;taketomer;;;;;;;;;;;x
-c_talang_batu;Talang Batu;Talang Batu;Talang Batu;;Talang Batu;;;;;;;;;x
-c_talang_batu_adj;Talang Batian;;Talang Bater;;;;;;;;;;;x
-c_talisajan;Talisajan;Talisajan;Talisajan;;Talisajan;;;;;;;;;x
-c_talisajan_adj;Talisajanian;;talisajaner;;;;;;;;;;;x
-c_taman;Taman;Taman;Taman;;Taman;;;;;;;;;x
-c_taman_adj;Tamanian;;tamaner;;;;;;;;;;;x
-c_tanahgrogot;Tanahgrogot;Tanahgrogot;Tanahgrogot;;Tanahgrogot;;;;;;;;;x
-c_tanahgrogot_adj;Tanahgrogotian;;tanahgrogoter;;;;;;;;;;;x
-c_tanahkoening;Tanahkoening;Tanahkoening;Tanahkoening;;Tanahkoening;;;;;;;;;x
-c_tanahkoening_adj;Tanahkoeningian;;tanahkoeninger;;;;;;;;;;;x
-c_tandjoengwaringin;Tandjoengwaringin;Tandjoengwaringin;Tandjoengwaringin;;Tandjoengwaringin;;;;;;;;;x
-c_tandjoengwaringin_adj;Tandjoengwaringinian;;tandjoengwaringiner;;;;;;;;;;;x
-c_tanjung_balai;Tanjung Balai;Tanjung Balai;Tanjung Balai;;Tanjung Balai;;;;;;;;;x
-c_tanjung_balai_adj;Tanjung Balian;;Tanjung Baler;;;;;;;;;;;x
-c_tarakan;Tarakan;Tarakan;Tarakan;;Tarakan;;;;;;;;;x
-c_tarakan_adj;Tarakanian;;tarakaner;;;;;;;;;;;x
-c_tatau;Tatau;Tatau;Tatau;;Tatau;;;;;;;;;x
-c_tatau_adj;Tatian;;tater;;;;;;;;;;;x
-c_tawau;Tawau;Tawau;Tawau;;Tawau;;;;;;;;;x
-c_tawau_adj;Tawian;;tawer;;;;;;;;;;;x
-c_teban;Teban;Teban;Teban;;Teban;;;;;;;;;x
-c_teban_adj;Tebanian;;tebaner;;;;;;;;;;;x
-c_telukbatang;Telukbatang;Telukbatang;Telukbatang;;Telukbatang;;;;;;;;;x
-c_telukbatang_adj;Telukbatangian;;telukbatanger;;;;;;;;;;;x
-c_tembilahan;Tembilahan;Tembilahan;Tembilahan;;Tembilahan;;;;;;;;;x
-c_tembilahan_adj;Tembilahanian;;tembilahaner;;;;;;;;;;;x
-c_temenggor;Temenggor;Temenggor;Temenggor;;Temenggor;;;;;;;;;x
-c_temenggor_adj;Temenggorian;;temenggorer;;;;;;;;;;;x
-c_temerloh;Temerloh;Temerloh;Temerloh;;Temerloh;;;;;;;;;x
-c_temerloh_adj;Temerlohian;;temerloher;;;;;;;;;;;x
-c_tengkiduk;Tengkiduk;Tengkiduk;Tengkiduk;;Tengkiduk;;;;;;;;;x
-c_tengkiduk_adj;Tengkidukian;;tengkiduker;;;;;;;;;;;x
-c_terempa;Terempa;Terempa;Terempa;;Terempa;;;;;;;;;x
-c_terempa_adj;Terempan;;teremper;;;;;;;;;;;x
-c_terengganu;Terengganu;Terengganu;Terengganu;;Terengganu;;;;;;;;;x
-c_terengganu_adj;Terengganian;;terengganer;;;;;;;;;;;x
-c_tintang;Tintang;Tintang;Tintang;;Tintang;;;;;;;;;x
-c_tintang_adj;Tintangian;;tintanger;;;;;;;;;;;x
-c_toembang_napoei;Toembang Napoei;Toembang Napoei;Toembang Napoei;;Toembang Napoei;;;;;;;;;x
-c_toembang_napoei_adj;Toembang Napian;;Toembang Naper;;;;;;;;;;;x
-c_tokunoshima;Tokunoshima;Tokunoshima;Tokunoshima;;Tokunoshima;;;;;;;;;x
-c_tokunoshima_adj;Tokunoshiman;;tokunoshimer;;;;;;;;;;;x
-c_tsushima;Tsushima;Tsushima;Tsushima;;Tsushima;;;;;;;;;x
-c_tsushima_adj;Tsushiman;;tsushimer;;;;;;;;;;;x
-c_tuaran;Tuaran;Tuaran;Tuaran;;Tuaran;;;;;;;;;x
-c_tuaran_adj;Tuaranian;;tuaraner;;;;;;;;;;;x
-c_tuban;Tuban;Tuban;Tuban;;Tuban;;;;;;;;;x
-c_tuban_adj;Tubanian;;tubaner;;;;;;;;;;;x
-c_tukas;Tukas;Tukas;Tukas;;Tukas;;;;;;;;;x
-c_tukas_adj;Tukasian;;tukaser;;;;;;;;;;;x
-c_ukit_ukit;Ukit Ukit;Ukit Ukit;Ukit Ukit;;Ukit Ukit;;;;;;;;;x
-c_ukit_ukit_adj;Ukit Ukitian;;Ukit Ukiter;;;;;;;;;;;x
-c_ulleung;Ulleung;Ulleung;Ulleung;;Ulleung;;;;;;;;;x
-c_ulleung_adj;Ulleungian;;ulleunger;;;;;;;;;;;x
-c_zamami;Zamami;Zamami;Zamami;;Zamami;;;;;;;;;x
-c_zamami_adj;Zamamian;;zamamer;;;;;;;;;;;x
+c_alaminos;Alaminos;Alaminos;Alaminos;;Alaminos;;;;;;;;;x
+c_alaminos_adj;Alaminosian;;alaminoser;;;;;;;;;;;x
+c_aparri;Aparri;Aparri;Aparri;;Aparri;;;;;;;;;x
+c_aparri_adj;Aparrian;;aparrer;;;;;;;;;;;x
+c_balabac;Balabac;Balabac;Balabac;;Balabac;;;;;;;;;x
+c_balabac_adj;Balabacian;;balabacer;;;;;;;;;;;x
+c_batangas;Batangas;Batangas;Batangas;;Batangas;;;;;;;;;x
+c_batangas_adj;Batangasian;;batangaser;;;;;;;;;;;x
+c_bataraza;Bataraza;Bataraza;Bataraza;;Bataraza;;;;;;;;;x
+c_bataraza_adj;Batarazan;;batarazer;;;;;;;;;;;x
+c_burdeos;Burdeos;Burdeos;Burdeos;;Burdeos;;;;;;;;;x
+c_burdeos_adj;Burdeosian;;burdeoser;;;;;;;;;;;x
+c_cabanatuan;Cabanatuan;Cabanatuan;Cabanatuan;;Cabanatuan;;;;;;;;;x
+c_cabanatuan_adj;Cabanatuanian;;cabanatuaner;;;;;;;;;;;x
+c_catanauan;Catanauan;Catanauan;Catanauan;;Catanauan;;;;;;;;;x
+c_catanauan_adj;Catanauanian;;catanauaner;;;;;;;;;;;x
+c_catanduanes;Catanduanes;Catanduanes;Catanduanes;;Catanduanes;;;;;;;;;x
+c_catanduanes_adj;Catanduanesian;;catanduaneser;;;;;;;;;;;x
+c_coron;Coron;Coron;Coron;;Coron;;;;;;;;;x
+c_coron_adj;Coronian;;coroner;;;;;;;;;;;x
+c_daet;Daet;Daet;Daet;;Daet;;;;;;;;;x
+c_daet_adj;Daetian;;daeter;;;;;;;;;;;x
+c_dilasag;Dilasag;Dilasag;Dilasag;;Dilasag;;;;;;;;;x
+c_dilasag_adj;Dilasagian;;dilasager;;;;;;;;;;;x
+c_el_nido;El Nido;El Nido;El Nido;;El Nido;;;;;;;;;x
+c_el_nido_adj;El Nidian;;El Nider;;;;;;;;;;;x
+c_estancia;Estancia;Estancia;Estancia;;Estancia;;;;;;;;;x
+c_estancia_adj;Estancian;;estancer;;;;;;;;;;;x
+c_iloilo;Iloilo;Iloilo;Iloilo;;Iloilo;;;;;;;;;x
+c_iloilo_adj;Iloilian;;iloiler;;;;;;;;;;;x
+c_kalibo;Kalibo;Kalibo;Kalibo;;Kalibo;;;;;;;;;x
+c_kalibo_adj;Kalibian;;kaliber;;;;;;;;;;;x
+c_laoag;Laoag;Laoag;Laoag;;Laoag;;;;;;;;;x
+c_laoag_adj;Laoagian;;laoager;;;;;;;;;;;x
+c_legazpi;Legazpi;Legazpi;Legazpi;;Legazpi;;;;;;;;;x
+c_legazpi_adj;Legazpian;;legazper;;;;;;;;;;;x
+c_looc;Looc;Looc;Looc;;Looc;;;;;;;;;x
+c_looc_adj;Loocian;;loocer;;;;;;;;;;;x
+c_luzon;Luzon;Luzon;Luzon;;Luzon;;;;;;;;;x
+c_luzon_adj;Luzonian;;luzoner;;;;;;;;;;;x
+c_manila;Manila;Manila;Manila;;Manila;;;;;;;;;x
+c_manila_adj;Manilan;;maniler;;;;;;;;;;;x
+c_mapun;Mapun;Mapun;Mapun;;Mapun;;;;;;;;;x
+c_mapun_adj;Mapunian;;mapuner;;;;;;;;;;;x
+c_marinduque;Marinduque;Marinduque;Marinduque;;Marinduque;;;;;;;;;x
+c_marinduque_adj;Marinduquean;;marinduqer;;;;;;;;;;;x
+c_masbate;Masbate;Masbate;Masbate;;Masbate;;;;;;;;;x
+c_masbate_adj;Masbatean;;masbater;;;;;;;;;;;x
+c_narra;Narra;Narra;Narra;;Narra;;;;;;;;;x
+c_narra_adj;Narran;;narrer;;;;;;;;;;;x
+c_olongapo;Olongapo;Olongapo;Olongapo;;Olongapo;;;;;;;;;x
+c_olongapo_adj;Olongapian;;olongaper;;;;;;;;;;;x
+c_paluan;Paluan;Paluan;Paluan;;Paluan;;;;;;;;;x
+c_paluan_adj;Paluanian;;paluaner;;;;;;;;;;;x
+c_paranas;Paranas;Paranas;Paranas;;Paranas;;;;;;;;;x
+c_paranas_adj;Paranasian;;paranaser;;;;;;;;;;;x
+c_puerto_princesa;Puerto Princesa;Puerto Princesa;Puerto Princesa;;Puerto Princesa;;;;;;;;;x
+c_puerto_princesa_adj;Puerto Princesan;;Puerto Princeser;;;;;;;;;;;x
+c_roxas;Roxas;Roxas;Roxas;;Roxas;;;;;;;;;x
+c_roxas_adj;Roxasian;;roxaser;;;;;;;;;;;x
+c_san_fernando;San Fernando;San Fernando;San Fernando;;San Fernando;;;;;;;;;x
+c_san_fernando_adj;San Fernandian;;San Fernander;;;;;;;;;;;x
+c_san_jose;San Jose;San Jose;San Jose;;San Jose;;;;;;;;;x
+c_san_jose_adj;San Josean;;San Joser;;;;;;;;;;;x
+c_san_vicente;San Vicente;San Vicente;San Vicente;;San Vicente;;;;;;;;;x
+c_san_vicente_adj;San Vicentean;;San Vicenter;;;;;;;;;;;x
+c_santiago_2;Santiago_2;Santiago_2;Santiago_2;;Santiago_2;;;;;;;;;x
+c_santiago_2_adj;Santiago_2ian;;santiago_2er;;;;;;;;;;;x
+c_victoria;Victoria;Victoria;Victoria;;Victoria;;;;;;;;;x
+c_victoria_adj;Victorian;;victorer;;;;;;;;;;;x
